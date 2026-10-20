@@ -31,6 +31,29 @@ WestCCUSD Area4 Vote for 1
 DEMETRIO GONZALEZ HOY 7/14/2026 4:26:00 PM
 """
 
+# The same list as pypdf really extracts it in GitHub Actions (seen 10/20/26): count glued before the code.
+CANDIDATES_REAL = """November 3 2026 General Election - 11/3/2026
+Contests: 3111 to 7886 -
+Candidate List
+Contest Date/Time QualifiedParty
+Vote for 1CCCBdEdSchBd2
+SARAH BUTLER 8/ 6/2026  8:24:00 AM
+PAMELA WEST 7/27/2026  4:09:00 PM
+Vote for 1CCCollege1
+RAQUEL DONOSO 8/ 7/2026  2:01:00 PM
+CAMERON SASAI 8/ 6/2026 12:28:00 PM
+Vote for 1MartinezUSD, Area 3
+BRENDA LEAL 7/29/2026 11:23:00 AM
+Vote for 3PinoleCouncil
+TRUC "CHRISTY" LAM-JULIAN 7/22/2026  4:15:00 PM
+LIBBY DUARTE 7/23/2026  4:06:00 PM
+GABRIEL SANDOVAL 7/27/2026  4:19:00 PM
+MATTHEW "MATT" AVERY 8/ 4/2026  9:49:00 AM
+TINA BROWN 8/ 6/2026 12:11:00 PM
+CFMR011 - Candidate List
+Print Date and Time:  8/14/2026    5:04:53PM
+"""
+
 MEASURES = """Contra Costa County Elections
 November 3, 2026 General Election
 MEASURE RTM
@@ -71,6 +94,12 @@ class CountyParseTests(unittest.TestCase):
         self.assertEqual(council["vote_for"], 3)
         self.assertEqual(len(council["candidates"]), 5)              # the not-qualified filer is dropped
         self.assertEqual(council["candidates"][0], 'TRUC "CHRISTY" LAM-JULIAN')
+
+    def test_candidate_list_real_layout(self):
+        got = parse_candidate_list(CANDIDATES_REAL)
+        self.assertEqual([(c["code"], c["vote_for"], len(c["candidates"])) for c in got],
+                         [("CCCBdEdSchBd2", 1, 2), ("CCCollege1", 1, 2), ("MartinezUSD, Area 3", 1, 1), ("PinoleCouncil", 3, 5)])
+        self.assertEqual(got[-1]["candidates"][-1], "TINA BROWN")
 
     def test_document_date(self):
         self.assertEqual(document_date(CANDIDATES), date(2026, 11, 3))

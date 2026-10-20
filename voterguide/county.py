@@ -110,14 +110,15 @@ def document_mentions(text: str, when: date) -> bool:
 
 # ---- candidate summary list -------------------------------------------------------------------------------------
 
-CONTEST_LINE = re.compile(r"^(?P<code>\S.*?)?\s*Vote\s*for\s*(?P<n>\d+)\b", re.I)
+# pypdf puts the count before the code with no space: "Vote for 3PinoleCouncil". Older layouts: "PinoleCouncil Vote for 3".
+CONTEST_LINE = re.compile(r"^(?P<pre>.*?)\s*Vote\s*for\s*(?P<n>\d{1,2})(?P<post>.*)$", re.I)
 DATE_TIME = r"\d{1,2}/\s?\d{1,2}/\s?\d{4}\s*\d{1,2}:\d{2}(?::\d{2})?\s*[AP]M"
 CANDIDATE_LINE = re.compile(rf"^(?P<name>[^\d].*?)\s*{DATE_TIME}", re.I)
 CANDIDATE_LINE_DATE_FIRST = re.compile(rf"^{DATE_TIME}\s+(?P<name>[^\d].*?)\s*$", re.I)
 NOT_QUALIFIED = re.compile(r"\(?\s*not\s+qualified\s*\)?|\bwithdrawn\b", re.I)
 PARTY_SUFFIX = re.compile(r"\s+(Democratic|Republican|Green|Libertarian|Peace and Freedom|American Independent|"
                           r"No Party Preference|Non-?Partisan|NPP|DEM|REP|GRN|LIB|PF|AI)\s*$", re.I)
-HEADER = re.compile(r"^(Contest|Contests:|Candidate List|Page \d+|November|June|March)\b", re.I)
+HEADER = re.compile(r"^(Contest|Contests:|Candidate List|Page \d+|Print Date|CFMR\d+|November|June|March)\b", re.I)
 
 
 def parse_candidate_list(text: str) -> list[dict]:
@@ -132,13 +133,13 @@ def parse_candidate_list(text: str) -> list[dict]:
             continue
         m = CONTEST_LINE.match(line)
         if m:
-            code = (m.group("code") or "").strip() or prev
+            code = m.group("post").strip() or m.group("pre").strip() or prev
             cur = {"code": code, "vote_for": int(m.group("n")), "candidates": []}
             out.append(cur)
             prev = ""
             continue
-        m = CANDIDATE_LINE.match(line) or CANDIDATE_LINE_DATE_FIRST.match(line)
-        if m and cur is not None:
+        m = None if HEADER.match(line) else CANDIDATE_LINE.match(line) or CANDIDATE_LINE_DATE_FIRST.match(line)
+        if m and cur is not None and ":" not in m.group("name"):
             if not NOT_QUALIFIED.search(line):
                 name = PARTY_SUFFIX.sub("", m.group("name")).strip()
                 if name:
