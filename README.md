@@ -80,3 +80,4 @@ A monthly heartbeat commit (`state/heartbeat.txt`) stops GitHub from disabling t
 - Delete an obsolete tab: Actions -> "Sheet admin" (only allow-listed tab names; see `tools/sheet_admin.py`).
 - Tests: `python -m unittest discover -s tests -t .`
 # pinole-voter-guide
+# pinole-voter-guide
