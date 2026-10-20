@@ -198,15 +198,15 @@
   "url": "https://www.apenaction.org/endorsements/"
  },
  "bay-rising-action": {
-  "extracted_at": "2026-10-20T03:18:42Z",
-  "fp": "43158b1b8e0785e7",
+  "extracted_at": "2026-10-20T18:30:18Z",
+  "fp": "d644815e0dd90619",
   "items": [
    {
     "candidates": [],
     "confidence": "high",
     "contest_key": "ca-prop-1",
     "contest_label": "CA Proposition 1",
-    "evidence": "Proposition 1\nYes\nFund Affordable Housing through Bond",
+    "evidence": "Proposition 1 Yes Fund Affordable Housing through Bond",
     "flags": [],
     "position": "yes"
    },
@@ -215,7 +215,7 @@
     "confidence": "high",
     "contest_key": "ca-prop-2",
     "contest_label": "CA Proposition 2",
-    "evidence": "Proposition 2\nYes\nExpand Rainy Day Fund to Save for CA’s Future",
+    "evidence": "Proposition 2 Yes Expand Rainy Day Fund to Save for CA’s Future",
     "flags": [],
     "position": "yes"
    },
@@ -224,7 +224,7 @@
     "confidence": "high",
     "contest_key": "ca-prop-3",
     "contest_label": "CA Proposition 3",
-    "evidence": "Proposition 3\nYes\nMaintain School Funding through Renewing Income Tax on Top 2%",
+    "evidence": "Proposition 3 Yes Maintain School Funding through Renewing Income Tax on Top 2%",
     "flags": [],
     "position": "yes"
    },
@@ -242,7 +242,7 @@
     "confidence": "high",
     "contest_key": "ca-prop-5",
     "contest_label": "CA Proposition 5",
-    "evidence": "Proposition 5\nYes\nReform the Recall Process of Elected Officials",
+    "evidence": "Proposition 5 Yes Reform the Recall Process of Elected Officials",
     "flags": [],
     "position": "yes"
    },
@@ -251,7 +251,7 @@
     "confidence": "medium",
     "contest_key": "ca-prop-37",
     "contest_label": "CA Proposition 37",
-    "evidence": "Proposition 37\nNeutral/No Position\nCreate Second Mortgage Program for Middle-Class Home-Buyers",
+    "evidence": "Proposition 37 Neutral/No Position Create Second Mortgage Program for Middle-Class Home-Buyers",
     "flags": [],
     "position": "neutral"
    },
@@ -260,7 +260,7 @@
     "confidence": "high",
     "contest_key": "ca-prop-38",
     "contest_label": "CA Proposition 38",
-    "evidence": "Proposition 38\nNo\nRestrict Half of Immunology Medical Research Bond Funding to One Untested Institute",
+    "evidence": "Proposition 38 No Restrict Half of Immunology Medical Research Bond Funding to One Untested Institute",
     "flags": [],
     "position": "no"
    },
@@ -314,7 +314,7 @@
     "confidence": "high",
     "contest_key": "ca-prop-44",
     "contest_label": "CA Proposition 44",
-    "evidence": "Proposition 44\nNo\nRestrict Community Clinic Spending that Serves Low-Income & Immigrant Communities",
+    "evidence": "Proposition 44 No Restrict Community Clinic Spending that Serves Low-Income & Immigrant Communities",
     "flags": [],
     "position": "no"
    },
@@ -323,7 +323,7 @@
     "confidence": "high",
     "contest_key": "ca-prop-45",
     "contest_label": "CA Proposition 45",
-    "evidence": "Proposition 45\nNo\nWeaken Clean Air & Water Protections on Construction Projects (CEQA rollback)",
+    "evidence": "Proposition 45 No Weaken Clean Air & Water Protections on Construction Projects (CEQA rollback)",
     "flags": [],
     "position": "no"
    },
@@ -332,7 +332,7 @@
     "confidence": "high",
     "contest_key": "reg-measure-rtm",
     "contest_label": "Regional Measure RTM",
-    "evidence": "YES Measure RTM\n: Alameda, Contra Costa, San Francisco, San Mateo, and Santa Clara Counties: Reinvest in Regional Public Transit",
+    "evidence": "YES Measure RTM : Alameda, Contra Costa, San Francisco, San Mateo, and Santa Clara Counties: Reinvest in Regional Public Transit",
     "flags": [],
     "position": "yes"
    }
@@ -825,8 +825,8 @@
   "url": "https://www.caworkingfamilies.org/voter-guide-general-election-2026.pdf"
  },
  "conservation-voters": {
-  "extracted_at": "2026-10-20T03:18:42Z",
-  "fp": "3c95310cf9b3c22c",
+  "extracted_at": "2026-10-20T18:30:18Z",
+  "fp": "2b14bb9aeb00c284",
   "items": [
    {
     "candidates": [
@@ -1858,8 +1858,8 @@
  },
  "critical-resistance": {},
  "cta": {
-  "extracted_at": "2026-10-20T03:18:42Z",
-  "fp": "12c402783b941c88",
+  "extracted_at": "2026-10-20T18:30:18Z",
+  "fp": "51266c4c49439f59",
   "items": [
    {
     "candidates": [
@@ -2378,8 +2378,8 @@
  "greenlining": {},
  "ilwu": {},
  "lwv-california": {
-  "extracted_at": "2026-10-20T03:18:42Z",
-  "fp": "8abe7bec45fe177e",
+  "extracted_at": "2026-10-20T18:30:18Z",
+  "fp": "d6ad9cd3fdd10e3d",
   "items": [
    {
     "candidates": [],
