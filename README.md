@@ -79,3 +79,4 @@ A monthly heartbeat commit (`state/heartbeat.txt`) stops GitHub from disabling t
 - Retire/add a source: edit `config/orgs.yaml`. Model: `VG_MODEL` (default claude-opus-5-5).
 - Delete an obsolete tab: Actions -> "Sheet admin" (only allow-listed tab names; see `tools/sheet_admin.py`).
 - Tests: `python -m unittest discover -s tests -t .`
+# pinole-voter-guide
