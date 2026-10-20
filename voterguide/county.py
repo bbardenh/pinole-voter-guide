@@ -110,27 +110,42 @@ def document_mentions(text: str, when: date) -> bool:
 
 # ---- candidate summary list -------------------------------------------------------------------------------------
 
-CONTEST_LINE = re.compile(r"^(?P<code>\S.*?)\s+Vote for (?P<n>\d+)\s*$", re.I)
-CANDIDATE_LINE = re.compile(r"^(?P<name>\S.*?)\s+\d{1,2}/\s?\d{1,2}/\d{4}\s+\d{1,2}:\d{2}(?::\d{2})?\s*[AP]M\b", re.I)
+CONTEST_LINE = re.compile(r"^(?P<code>\S.*?)?\s*Vote\s*for\s*(?P<n>\d+)\b", re.I)
+DATE_TIME = r"\d{1,2}/\s?\d{1,2}/\s?\d{4}\s*\d{1,2}:\d{2}(?::\d{2})?\s*[AP]M"
+CANDIDATE_LINE = re.compile(rf"^(?P<name>[^\d].*?)\s*{DATE_TIME}", re.I)
+CANDIDATE_LINE_DATE_FIRST = re.compile(rf"^{DATE_TIME}\s+(?P<name>[^\d].*?)\s*$", re.I)
 NOT_QUALIFIED = re.compile(r"\(?\s*not\s+qualified\s*\)?|\bwithdrawn\b", re.I)
+PARTY_SUFFIX = re.compile(r"\s+(Democratic|Republican|Green|Libertarian|Peace and Freedom|American Independent|"
+                          r"No Party Preference|Non-?Partisan|NPP|DEM|REP|GRN|LIB|PF|AI)\s*$", re.I)
+HEADER = re.compile(r"^(Contest|Contests:|Candidate List|Page \d+|November|June|March)\b", re.I)
 
 
 def parse_candidate_list(text: str) -> list[dict]:
-    """[{code, vote_for, candidates: [NAME, ...]}] in document order. Page headers between entries are ignored."""
+    """[{code, vote_for, candidates: [NAME, ...]}] in document order. Page headers between entries are ignored.
+    Tolerates "Vote for N" on its own line (the contest code is then the line before) and date-first candidate lines."""
     out: list[dict] = []
     cur = None
+    prev = ""
     for raw in text.splitlines():
         line = re.sub(r"\s+", " ", raw).strip()
         if not line:
             continue
         m = CONTEST_LINE.match(line)
         if m:
-            cur = {"code": m.group("code").strip(), "vote_for": int(m.group("n")), "candidates": []}
+            code = (m.group("code") or "").strip() or prev
+            cur = {"code": code, "vote_for": int(m.group("n")), "candidates": []}
             out.append(cur)
+            prev = ""
             continue
-        m = CANDIDATE_LINE.match(line)
-        if m and cur is not None and not NOT_QUALIFIED.search(line):
-            cur["candidates"].append(m.group("name").strip())
+        m = CANDIDATE_LINE.match(line) or CANDIDATE_LINE_DATE_FIRST.match(line)
+        if m and cur is not None:
+            if not NOT_QUALIFIED.search(line):
+                name = PARTY_SUFFIX.sub("", m.group("name")).strip()
+                if name:
+                    cur["candidates"].append(name)
+            prev = ""
+            continue
+        prev = "" if HEADER.match(line) else line
     return out
 
 
