@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+# secrets and scratch downloads must never be committed
+*.json
+!config/*.json
+*.xlsx
+secrets/
+scratch/
+out/
+!state/*.json
+!state/**/*.json

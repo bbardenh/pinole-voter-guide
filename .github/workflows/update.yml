@@ -1,0 +1,88 @@
+name: Update voter guide
+
+# LIVE (enabled 2026-10-09): the daily trigger below fires at 14:17 UTC (7:17 am Pacific). voterguide.run decides
+# whether today is a run day (nothing before 45 days ahead of an election; weekly to day 31; daily the last 30 days).
+# A monthly heartbeat commit (state/heartbeat.txt) keeps GitHub from disabling the schedule after 60 quiet days.
+on:
+  schedule:
+    - cron: "17 14 * * *"
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Optional comma-separated org ids (blank = all)"
+        required: false
+        default: ""
+      tab_suffix:
+        description: 'Suffix for the election tab, e.g. " (preview)" (blank = the real tab)'
+        required: false
+        default: ""
+      dry_run:
+        description: "Dry run (nothing saved or written)"
+        type: boolean
+        default: false
+      force:
+        description: "Run even outside the 45-day window"
+        type: boolean
+        default: false
+      fresh:
+        description: "Ignore the page-change cache (re-extract everything)"
+        type: boolean
+        default: false
+      rebuild_registry:
+        description: "Rebuild the contest list from official sources now"
+        type: boolean
+        default: false
+
+concurrency:
+  group: voter-guide-update
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - name: Run
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_SA_KEY: ${{ secrets.GOOGLE_SA_KEY }}
+          SHEET_ID: ${{ vars.SHEET_ID }}
+          VG_BUDGET_CAP: "20"
+        run: |
+          args=""
+          [ "${{ inputs.dry_run }}" = "true" ] && args="$args --dry-run"
+          [ "${{ inputs.force }}" = "true" ] && args="$args --force"
+          [ "${{ inputs.fresh }}" = "true" ] && args="$args --fresh"
+          [ "${{ inputs.rebuild_registry }}" = "true" ] && args="$args --rebuild-registry"
+          python -m voterguide.run $args --only "${{ inputs.only }}" --tab-suffix "${{ inputs.tab_suffix }}"
+      - name: Save state
+        if: ${{ always() && !inputs.dry_run }}
+        run: |
+          git config user.name "voter-guide-bot"
+          git config user.email "voter-guide-bot@users.noreply.github.com"
+          date -u +%Y-%m > state/heartbeat.txt     # changes once a month: repo activity keeps the schedule enabled
+          git add state config/contests
+          if git diff --cached --quiet; then echo "no state changes"; else
+            git commit -m "state: $(date -u +%Y-%m-%d) update"
+            git pull --rebase
+            git push
+          fi
+      - name: Open an issue for alerts
+        if: ${{ always() && !inputs.dry_run }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -s out/alerts.md ]; then
+            gh issue create --title "Voter guide needs attention ($(date -u +%Y-%m-%d))" --body-file out/alerts.md
+          fi

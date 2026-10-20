@@ -1,0 +1,8 @@
+google-auth>=2.30
+google-api-python-client>=2.130
+PyYAML>=6.0
+requests>=2.32
+beautifulsoup4>=4.12
+anthropic>=0.40
+playwright>=1.47
+pypdf>=4.0

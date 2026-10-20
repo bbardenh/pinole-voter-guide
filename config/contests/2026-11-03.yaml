@@ -1,0 +1,51 @@
+# Contest registry for 2026 November General (2026-11-03) for Pinole. Hand-built on 2026-10-20 from the Contra Costa
+# County candidate summary list (8/14/26), local measures list, the Secretary of State certified candidate list (8/27/26)
+# and qualified measures; statewide entries carried over from the Oakland guide (same statewide ballot, same 1st Appellate
+# District). Rebuilt automatically by voterguide/registry_builder.py; a rebuild keeps labels/flags for existing keys.
+# Not included: SD7 and Supervisor D1 (not up in 2026), WCCUSD Areas 4/5 (uncontested), BART D2, AC Transit (Pinole is
+# outside both), West County Wastewater (unclear whether any Pinole precinct votes; see docs/registry-notes.md).
+election: "2026 November General"
+contests:
+  - {key: "us-house-d8", level: "federal", type: "race", label: "U.S. House of Representatives (District 8)", candidates: ["John Garamendi", "Rudy Recile"], verification: "official"}
+  - {key: "ca-prop-1", level: "state", type: "measure", label: "CA Proposition 1, Authorizes Bonds for Housing Affordability Programs. Legislative Statute.", verification: "official"}
+  - {key: "ca-prop-2", level: "state", type: "measure", label: "CA Proposition 2, Increases State’s Rainy Day Fund. Legislative Constitutional Amendment.", verification: "official"}
+  - {key: "ca-prop-3", level: "state", type: "measure", label: "CA Proposition 3, Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes. Initiative Constitutional Amendment.", verification: "official"}
+  - {key: "ca-prop-37", level: "state", type: "measure", label: "CA Proposition 37, Creates Loan Program for Middle-Income Buyers of Qualified New Homes. Initiative Statute.", verification: "official"}
+  - {key: "ca-prop-38", level: "state", type: "measure", label: "CA Proposition 38, Authorizes Bonds for Immunology Medical Research. Initiative Statute.", verification: "official"}
+  - {key: "ca-prop-39", level: "state", type: "measure", label: "CA Proposition 39, Prohibits Citizens from Voting Unless They Present Government-Issued Identification. Initiative Constitutional Amendment.", verification: "official"}
+  - {key: "ca-prop-4", level: "state", type: "measure", label: "CA Proposition 4, Repeals Prohibition Against Public Funding of Election Campaigns. Legislative Statute.", verification: "official"}
+  - {key: "ca-prop-40", level: "state", type: "measure", label: "CA Proposition 40, Imposes One-Time Tax on Certain Taxpayers. Initiative Constitutional Amendment and Statute.", verification: "official"}
+  - {key: "ca-prop-41", level: "state", type: "measure", label: "CA Proposition 41, Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes. Initiative Constitutional Amendment.", verification: "official"}
+  - {key: "ca-prop-42", level: "state", type: "measure", label: "CA Proposition 42, Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes. Initiative Constitutional Amendment.", verification: "official"}
+  - {key: "ca-prop-43", level: "state", type: "measure", label: "CA Proposition 43, Limits Voters’ Ability to Raise Revenues for Local Government Services. Legislative Constitutional Amendment.", verification: "official"}
+  - {key: "ca-prop-44", level: "state", type: "measure", label: "CA Proposition 44, Requires Community Health Clinics Spend 90% Of Revenue on Program Services. Initiative Statute.", verification: "official"}
+  - {key: "ca-prop-45", level: "state", type: "measure", label: "CA Proposition 45, Modifies Environmental Review for Certain Projects. Initiative Statute.", verification: "official"}
+  - {key: "ca-prop-5", level: "state", type: "measure", label: "CA Proposition 5, Changes Recall Election Process for Statewide Officers. Legislative Constitutional Amendment.", verification: "official"}
+  - {key: "ca-assembly-d14", level: "state", type: "race", label: "California State Assembly (District 14)", candidates: ["Mark Rendon", "Buffy Wicks"], verification: "official"}
+  - {key: "ca-attorney-general", level: "state", type: "race", label: "California Attorney General", candidates: ["Rob Bonta", "Michael E. Gates"], verification: "official"}
+  - {key: "ca-boe-d2", level: "state", type: "race", label: "State Board of Equalization (District 2)", candidates: ["Sally J. Lieber", "John Pimentel"], verification: "official"}
+  - {key: "ca-coa1-d1-banke", level: "state", type: "retention", label: "Retain Associate Justice Kathleen M. Banke (Court of Appeal, 1st District, Div. 1)?", verification: "official"}
+  - {key: "ca-coa1-d1-smiley", level: "state", type: "retention", label: "Retain Associate Justice Charles A. Smiley (Court of Appeal, 1st District, Div. 1)?", verification: "official"}
+  - {key: "ca-coa1-d1-wilson", level: "state", type: "retention", label: "Retain Associate Justice Monique Langhorne Wilson (Court of Appeal, 1st District, Div. 1)?", verification: "official"}
+  - {key: "ca-coa1-d2-desautels", level: "state", type: "retention", label: "Retain Associate Justice Tara M. Desautels (Court of Appeal, 1st District, Div. 2)?", verification: "official"}
+  - {key: "ca-coa1-d2-stewart", level: "state", type: "retention", label: "Retain Presiding Justice Therese M. Stewart (Court of Appeal, 1st District, Div. 2)?", verification: "official"}
+  - {key: "ca-coa1-d3-petrou", level: "state", type: "retention", label: "Retain Associate Justice Ioana Petrou (Court of Appeal, 1st District, Div. 3)?", verification: "official"}
+  - {key: "ca-coa1-d3-rodriguez", level: "state", type: "retention", label: "Retain Associate Justice Victor A. Rodriguez (Court of Appeal, 1st District, Div. 3)?", verification: "official"}
+  - {key: "ca-coa1-d4-brown", level: "state", type: "retention", label: "Retain Presiding Justice Tracie L. Brown (Court of Appeal, 1st District, Div. 4)?", verification: "official"}
+  - {key: "ca-coa1-d5-burns", level: "state", type: "retention", label: "Retain Associate Justice Gordon Burns (Court of Appeal, 1st District, Div. 5)?", verification: "official"}
+  - {key: "ca-coa1-d5-chou", level: "state", type: "retention", label: "Retain Associate Justice Danny Y. Chou (Court of Appeal, 1st District, Div. 5)?", verification: "official"}
+  - {key: "ca-coa1-d5-simons", level: "state", type: "retention", label: "Retain Associate Justice Mark Simons (Court of Appeal, 1st District, Div. 5)?", verification: "official"}
+  - {key: "ca-controller", level: "state", type: "race", label: "California Controller", candidates: ["Malia M. Cohen", "Herb W Morgan"], verification: "official"}
+  - {key: "ca-governor", level: "state", type: "race", label: "California Governor", candidates: ["Xavier Becerra", "Steve Hilton"], verification: "official"}
+  - {key: "ca-insurance-commissioner", level: "state", type: "race", label: "California Insurance Commissioner", candidates: ["Ben Allen", "Jane Kim"], verification: "official"}
+  - {key: "ca-lt-governor", level: "state", type: "race", label: "California Lieutenant Governor", candidates: ["Fiona Ma", "Gloria Romero"], verification: "official"}
+  - {key: "ca-secretary-of-state", level: "state", type: "race", label: "California Secretary of State", candidates: ["Donald P. (Don) Wagner", "Shirley N. Weber"], verification: "official"}
+  - {key: "ca-superintendent", level: "state", type: "race", label: "California Superintendent of Public Instruction (nonpartisan)", candidates: ["Richard Barrera", "Sonja Shaw"], verification: "official"}
+  - {key: "ca-supreme-evans", level: "state", type: "retention", label: "Retain Associate Justice of the Supreme Court Kelli M. Evans?", verification: "official"}
+  - {key: "ca-supreme-groban", level: "state", type: "retention", label: "Retain Associate Justice of the Supreme Court Joshua Groban?", verification: "official"}
+  - {key: "ca-treasurer", level: "state", type: "race", label: "California Treasurer", candidates: ["Jennifer Hawks", "Eleni Kounalakis"], verification: "official"}
+  - {key: "reg-measure-rtm", level: "regional", type: "measure", label: "Regional Measure RTM, Connect Bay Area Transit Initiative (Transit Funding)", verification: "official"}
+  - {key: "wccusd-measure-v", level: "local", type: "measure", label: "West Contra Costa Unified School District Measure V, Parcel Tax Renewal", verification: "official"}
+  - {key: "pin-council", level: "local", type: "race", label: "Pinole City Council (3 seats)", vote_for: 3, candidates: ["Truc \"Christy\" Lam-Julian", "Libby Duarte", "Gabriel Sandoval", "Matthew \"Matt\" Avery", "Tina Brown"], verification: "official"}
+  - {key: "ccccd-ward-1", level: "special_district", type: "race", label: "Contra Costa Community College District Board (Ward 1)", candidates: ["Raquel Donoso", "Cameron Sasai"], verification: "official", coverage: "verified"}
+  - {key: "ebmud-ward-3", level: "special_district", type: "race", label: "East Bay Municipal Utility District Board (Ward 3)", candidates: ["Don Gray", "Marguerite Young"], verification: "official", coverage: "verified"}

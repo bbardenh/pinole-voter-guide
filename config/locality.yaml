@@ -1,0 +1,71 @@
+# Where this guide is for. Everything place-specific in the code reads this file (voterguide/locality.py).
+# Districts verified Oct 2026 (see docs/registry-notes.md). Update after redistricting (next: 2031) or if
+# Pinole's ward assignments change. When in doubt, check a Pinole sample ballot.
+city_name: Pinole
+city_slug: pin                        # prefix for contest keys, e.g. pin-council, pin-measure-a
+county_name: Contra Costa
+area_text: "Pinole / West Contra Costa County / Contra Costa County / California"
+guide_place: "Pinole, Contra Costa County, California"
+bot_name: PinoleVoterGuideBot
+
+congressional_districts: [8]
+assembly_districts: [14]
+state_senate_districts: [7]           # SD7 is odd-numbered: up in 2028, 2032...
+boe_districts: [2]                    # State Board of Equalization
+appellate_district: First             # Court of Appeal retention questions
+
+# County candidate list contest codes (Contra Costa "Candidate Summary List" PDF, e.g. "EastBayMUD3 Vote for 1").
+# includes: the seat numbers that cover at least part of Pinole -> kept and shown.
+#           []   = Pinole is not in this district at all -> dropped.
+#           null = unknown -> kept as an unverified special-district seat (shown only if some organization endorses).
+# Seat numbers not in a non-null includes list are dropped (other parts of the county).
+district_contests:
+  - {code: 'West ?CC ?USD,? ?Area ?(\d+)', key: "wccusd-area-{n}", level: local,
+     label: "West Contra Costa Unified School District Board (Trustee Area {n})", includes: [1, 4]}
+    # Area 1 = all Pinole schools; Area 4 = Tara Hills / Bayview (unincorporated, Pinole mailing addresses)
+  - {code: 'CC ?College ?(\d+)', key: "ccccd-ward-{n}", level: special_district,
+     label: "Contra Costa Community College District Board (Ward {n})", includes: [1]}
+  - {code: 'East ?Bay ?MUD ?(\d+)', key: "ebmud-ward-{n}", level: special_district,
+     label: "East Bay Municipal Utility District Board (Ward {n})", includes: [1, 3]}
+  - {code: 'East ?Bay ?Reg ?Park ?(\d+)', key: "ebrpd-ward-{n}", level: special_district,
+     label: "East Bay Regional Park District Board (Ward {n})", includes: [1]}
+  - {code: 'BART ?(\d+)', key: "bart-d{n}", level: special_district,
+     label: "BART Board of Directors (District {n})", includes: [3]}
+  - {code: 'AC ?Trans(?:it)? ?(\d+)', key: "ac-transit-ward-{n}", level: special_district,
+     label: "AC Transit Board of Directors (Ward {n})", includes: []}
+  - {code: 'West ?County ?Wastewater,? ?Div ?(\d+)', key: "wcwd-div-{n}", level: special_district,
+     label: "West County Wastewater District Board (Division {n})", includes: null}
+  - {code: 'CCC ?Bd ?Ed ?Sch ?Bd ?(\d+)', key: "cccoe-area-{n}", level: county,
+     label: "Contra Costa County Board of Education (Area {n})", includes: [1]}
+  - {code: 'Supervisor,? ?(?:Dist(?:rict)?)? ?(\d+)', key: "cc-supervisor-d{n}", level: county,
+     label: "Contra Costa County Board of Supervisors (District {n})", includes: [1, 5]}
+    # Pinole is split between D1 and (probably) D5; the supervisor code is a guess until a ballot with one is published
+
+# City offices: county codes start with the city name ("PinoleCouncil Vote for 3").
+city_offices:
+  Council: {key: "council", label: "City Council"}
+  Mayor: {key: "mayor", label: "Mayor"}
+  Treasurer: {key: "treasurer", label: "City Treasurer"}
+  Clerk: {key: "clerk", label: "City Clerk"}
+
+# Local measures from other jurisdictions that cover Pinole (matched against the measure's text).
+measure_jurisdictions:
+  - {pattern: 'West Contra Costa Unified', key: "wccusd-measure-{l}", level: local,
+     label: "West Contra Costa Unified School District Measure {L}, {title}"}
+  - {pattern: 'Contra Costa Community College', key: "ccccd-measure-{l}", level: special_district,
+     label: "Contra Costa Community College District Measure {L}, {title}"}
+  - {pattern: 'East Bay Municipal Utility|EBMUD', key: "ebmud-measure-{l}", level: regional,
+     label: "EBMUD Measure {L}, {title}"}
+  - {pattern: 'East Bay Regional Park', key: "ebrpd-measure-{l}", level: regional,
+     label: "East Bay Regional Park District Measure {L}, {title}"}
+
+# Election-list entries other than statewide generals/primaries are kept only if their label contains one of these:
+special_election_keywords: ["Pinole", "Contra Costa County", "West Contra Costa", "Congressional District 8",
+                            "Assembly District 14", "State Senate District 7"]
+
+# Text patterns (case-insensitive regexes) used by page discovery and the Suggestions tab.
+area_regex: 'pinole|west contra costa|west county|contra costa|east bay|california'
+page_signal_regex: 'pinole|contra costa|west county|wccusd|ebmud'
+measure_signal_regex: 'measure v\b|measure rtm|\brtm\b|regional measure|transit measure'
+in_scope_regex: 'pinole|contra costa county|west contra costa|wccusd|regional|bay area|ebmud|community college|statewide|california'
+other_places_regex: 'richmond|hercules|san pablo|el cerrito|el sobrante|rodeo|crockett|martinez|concord|walnut creek|antioch|pittsburg|brentwood|oakley|clayton|lafayette|orinda|moraga|danville|san ramon|pleasant hill|kensington|oakland|berkeley|alameda county|\bsan francisco\b|santa clara|los angeles'

@@ -1,0 +1,45 @@
+# Source organizations for the Pinole guide, in sheet column order (C, D, ...): West County and Contra Costa groups
+# first, then Bay Area, then statewide.
+# home_url: the column header's hyperlink. Discovery starts here.
+# hint_url: page to try first (the known endorsements page for the current cycle). Update each cycle if it moves.
+# seed_url: an older guide, a hint for finding the endorsements page.
+# home_kind: root | deep (home_url is a specific page, not the site root) | uncrawlable
+# active: false = retired source (kept for history; skipped by the pipeline and the sheet).
+# Built Oct 2026 from the Oakland guide's statewide/Bay Area sources plus Contra Costa research (docs/registry-notes.md).
+orgs:
+  # --- West County / Contra Costa ---
+  - {id: "contra-costa-labor-council", name: "Contra Costa Labor Council", home_url: "https://www.cclabor.net/", home_kind: "root", seed_url: null, active: true, hint_url: "https://www.cclabor.net/2026"}
+  - {id: "contra-costa-dems", name: "Democratic Party of Contra Costa County", home_url: "https://contracostadems.com/", home_kind: "root", seed_url: null, active: true, hint_url: "https://contracostadems.com/endorsements/"}
+  - {id: "west-county-dem-club", name: "West County Democratic Club", home_url: "https://www.westcountydemocraticclub.com/", home_kind: "root", seed_url: null, active: true, hint_url: "https://www.westcountydemocraticclub.com/endorsements"}
+  - {id: "el-cerrito-dem-club", name: "El Cerrito Democratic Club", home_url: "https://ecdclub.org/", home_kind: "root", seed_url: null, active: true, hint_url: "https://ecdclub.org/endorsements-vote-results/"}
+  - {id: "richmond-progressive-alliance", name: "Richmond Progressive Alliance", home_url: "https://www.richmondprogressivealliance.org/", home_kind: "root", seed_url: null, active: true, hint_url: "https://www.richmondprogressivealliance.org/voterguide2026"}
+  - {id: "apen-action", name: "APEN Action", home_url: "https://www.apenaction.org/", home_kind: "root", seed_url: null, active: true, hint_url: "https://www.apenaction.org/endorsements/"}
+  - {id: "contra-costa-young-dems", name: "Contra Costa Young Democrats", home_url: "https://cocoyoungdems.org/", home_kind: "root", seed_url: null, active: true, hint_url: "https://cocoyoungdems.org/endorsements"}
+  - {id: "350-contra-costa-action", name: "350 Contra Costa Action", home_url: "https://350contracostaaction.org/", home_kind: "root", seed_url: null, active: true}
+  - {id: "courage-california", name: "Courage California Voter Guide", home_url: "https://www.progressivevotersguide.com/california/2026/general/county/contracosta", home_kind: "deep", seed_url: "https://progressivevotersguide.com/california/?county=contracosta&c=1", active: true}
+  # --- East Bay / Bay Area ---
+  - {id: "east-bay-dsa", name: "East Bay DSA and DSA National", home_url: "https://www.eastbaydsa.org/", home_kind: "root", seed_url: null, active: true, hint_url: "https://dsavoterguide.com/eastbay/simple-guide.html"}
+  - {id: "seiu-1021-521", name: "SEIU 1021 and 521", home_url: "https://www.seiu1021.org/", home_kind: "root", seed_url: null, active: true, hint_url: "https://www.seiu1021.org/post/election-endorsements-nov-3-2026"}
+  - {id: "sierra-club-sf-bay", name: "Sierra Club San Francisco Bay", home_url: "https://www.sierraclub.org/sfbay", home_kind: "deep", seed_url: "https://www.sierraclub.org/san-francisco-bay/2020", active: true, hint_url: "https://www.sierraclub.org/sfbay/2026-endorsements"}
+  - {id: "ebho", name: "East Bay Housing Organizations", home_url: "https://ebho.org/", home_kind: "root", seed_url: "http://ebho.org/our-work/2020-election/", active: true, hint_url: "https://ebho.org/2026-campaign-endorsements/"}
+  - {id: "bay-rising-action", name: "Bay Rising Action", home_url: "https://bayrisingaction.org/", home_kind: "root", seed_url: "https://bayrisingaction.org/2020summary/", active: true, hint_url: "https://bayrisingaction.org/voterguide/"}
+  - {id: "350-bay-area-action", name: "350 Bay Area Action", home_url: "https://350bayareaaction.org/", home_kind: "root", seed_url: null, active: true, hint_url: "https://350bayareaaction.org/electoral/2026-endorsed-climate-candidates"}
+  - {id: "east-bay-for-everyone", name: "East Bay for Everyone", home_url: "https://eastbayforeveryone.org/", home_kind: "root", seed_url: "https://eastbayforeveryone.org/election-2020/", active: true, hint_url: "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"}
+  - {id: "greenbelt-alliance", name: "Greenbelt Alliance", home_url: "https://www.greenbelt.org/", home_kind: "root", seed_url: null, active: true, hint_url: "https://www.greenbelt.org/voter-guide-26/"}
+  - {id: "transform", name: "TransForm", home_url: "https://transformca.org/", home_kind: "root", seed_url: null, active: true}
+  - {id: "spur", name: "SPUR", home_url: "https://www.spur.org/voter-guide/2026-11", home_kind: "deep", seed_url: "https://www.spur.org/spur-voter-guides", active: true}
+  - {id: "our-revolution", name: "Our Revolution National and East Bay", home_url: "https://www.ourrevolutioneastbay.org/", home_kind: "root", seed_url: null, active: true}
+  - {id: "norcal-resist", name: "NorCal Resist", home_url: "https://www.norcalresist.org/", home_kind: "root", seed_url: "https://www.instagram.com/p/CGS_lOTJUEW/", active: true}
+  # --- Statewide ---
+  - {id: "ca-working-families", name: "California Working Families Party", home_url: "https://www.caworkingfamilies.org/", home_kind: "root", seed_url: null, active: true, hint_url: "https://www.caworkingfamilies.org/voter-guide-general-election-2026.pdf"}
+  - {id: "ca-democratic-party", name: "California Democratic Party", home_url: "https://cadem.org/vote/endorsements/", home_kind: "deep", seed_url: "https://cadem.org/vote/endorsements/", active: true}
+  - {id: "ca-labor-federation", name: "California Labor Federation", home_url: "https://calaborfed.org/", home_kind: "root", seed_url: "https://calaborfed.org/2020-general-election-endorsements/", active: true}
+  - {id: "cta", name: "California Teachers Association", home_url: "https://www.cta.org/", home_kind: "root", seed_url: "https://www.cta.org/election-2020", active: true}
+  - {id: "conservation-voters", name: "Conservation Voters", home_url: "https://envirovoters.org/", home_kind: "root", seed_url: "https://www.ecovote.org/elections/current-endorsements/", active: true}
+  - {id: "lwv-california", name: "League of Women Voters of CA", home_url: "https://lwvc.org/vote/elections/ballot-recommendations", home_kind: "deep", seed_url: "https://lwvc.org/vote/elections/ballot-recommendations", active: true}
+  - {id: "greenlining", name: "Greenlining Institute", home_url: "https://greenlining.org/", home_kind: "root", seed_url: "https://greenlining.org/publications/reports/2020/ballot-propositions-2020/", active: true}
+  - {id: "critical-resistance", name: "Critical Resistance", home_url: "https://criticalresistance.org/", home_kind: "root", seed_url: "http://criticalresistance.org/california-vote-no-on-prop-25/", active: true}
+  - {id: "aapi-force-ef", name: "AAPI FORCE-EF", home_url: "https://aapiforce.org/", home_kind: "root", seed_url: "https://aapiforce-ef.vote/wp-content/uploads/2020/10/English-Voter-Guide-2.pdf", active: true}
+  - {id: "planned-parenthood", name: "Planned Parenthood Advocates", home_url: "https://www.plannedparenthoodaction.org/planned-parenthood-advocates-mar-monte/voter-guide-2026", home_kind: "deep", seed_url: "https://www.plannedparenthoodaction.org/planned-parenthood-advocates-mar-monte/voter-guide-2020", active: true}
+  - {id: "ilwu", name: "ILWU", home_url: "https://www.ilwu.org/", home_kind: "root", seed_url: "https://www.ilwu.org/wp-content/uploads/2020/10/DispatcherOCT2020lores.pdf", active: true}
+  - {id: "young-womens-freedom-center", name: "Young Women's Freedom Center", home_url: "https://www.youngwomenfree.org/", home_kind: "root", seed_url: "https://www.youngwomenfree.org/voterguide2020/", active: true}
