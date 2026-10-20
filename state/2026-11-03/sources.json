@@ -1,1 +1,691 @@
-{}
+{
+ "350-bay-area-action": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://350bayareaaction.org/electoral/2026-endorsed-climate-candidates",
+  "probes": {
+   "https://350bayareaaction.org/electoral/2026-endorsed-climate-candidates": {
+    "checked": "2026-10-20",
+    "fp": "ec7d62ce6023ab4f",
+    "note": "The page lists 2026 endorsements announced for the June primary and says city/town council and other late and down-ballot endorsements will be added later. John Garamendi (US House D8, which includes Pinole) is endorsed. The governor's-race notes back Steyer, who is not on the November ballot; there",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "350-contra-costa-action": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://350contracostaaction.org/contra-costa-climate-voter-guide-2026/",
+  "probes": {
+   "https://350contracostaaction.org/contra-costa-climate-voter-guide-2026/": {
+    "checked": "2026-10-20",
+    "fp": "88743f08fee8701a",
+    "note": "Candidate endorsements page for Contra Costa County. Relevant to Pinole/West County: Contra Costa Community College Ward 1 (Cameron Sasai). Other endorsements (US Congress D10, Assembly D16, BOS D1/D4, other city councils, EBMUD Ward 2) are for districts not in this registry. Propositions and Measur",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "aapi-force-ef": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://www.aapiforce.org/2026general",
+  "probes": {
+   "https://www.aapiforce.org/2026general": {
+    "checked": "2026-10-20",
+    "fp": "2ff525db46954b5a",
+    "note": "Page lists AAPI FORCE 2026 general candidate endorsements. Only the statewide Insurance Commissioner endorsement (Jane Kim) applies to Pinole/West Contra Costa ballot. Other endorsements (Richmond Mayor, Richmond Council D-3, AD-20, Oakland, etc.) are for other jurisdictions. Propositions are on a s",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "apen-action": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://www.apenaction.org/endorsements/",
+  "probes": {
+   "https://www.apenaction.org/endorsements/": {
+    "checked": "2026-10-20",
+    "fp": "de84934bb6ab184b",
+    "note": "APEN Action lists positions on California propositions plus Oakland and Richmond local races. It takes no position on Props 2, 37 and 38 and refers voters to coalition allies. Oakland and Richmond city-specific races are omitted. The 'Yes on Measure V' listed under Richmond is assumed to be the WCCU",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "bay-rising-action": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://bayrisingaction.org/voterguide/",
+  "probes": {
+   "https://bayrisingaction.org/voterguide/": {
+    "checked": "2026-10-20",
+    "fp": "43158b1b8e0785e7",
+    "note": "Bay Rising Action November 2026 voter guide. Lists positions on CA Props 1-5 and 37-45 and on Regional Measure RTM. Candidate endorsements are deferred to the CA Working Families Party and are not listed on this page. The San Pablo and other-city local measures are outside Pinole and are omitted. WC",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "ca-democratic-party": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://cadem.org/endorsements/",
+  "probes": {
+   "https://cadem.org/endorsements/": {
+    "checked": "2026-10-20",
+    "fp": "6fb9d1698e9053d8",
+    "note": "Endorsements hub page; most endorsements are behind links (voter guide lookup, caucus results). Only explicit endorsement in page text is NO on Proposition 39. Notes Contra Costa County Central Committee local endorsements carry CADEM endorsement, but none are listed here.",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "ca-labor-federation": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://calaborfed.org/labor-2026-primary-election-endorsements/",
+  "probes": {
+   "https://calaborfed.org/labor-2026-primary-election-endorsements/": {
+    "checked": "2026-10-20",
+    "fp": "cd54edf06e2e40d8",
+    "note": "California Labor Federation 2026 Union Member Voter Guide (images) lists statewide candidate and proposition endorsements. Board of Equalization D1, D3 and D4 endorsements are omitted as outside this area. No position is shown on Prop 38. Local endorsements are referenced via labor council links but",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "ca-working-families": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://www.caworkingfamilies.org/voter-guide-general-election-2026.pdf",
+  "probes": {
+   "https://www.caworkingfamilies.org/voter-guide-general-election-2026.pdf": {
+    "checked": "2026-10-20",
+    "fp": "0a62abb8144095d9",
+    "note": "California Working Families Party 2026 statewide voter guide. Relevant to Pinole: Insurance Commissioner, state propositions, Board of Equalization District 2, Pinole City Council, and Contra Costa Community College Board. Prop 37 is not mentioned. The CCCCD endorsement does not name a ward, so it i",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "conservation-voters": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://envirovoters.org/2026-endorsements/",
+  "probes": {
+   "https://envirovoters.org/2026-endorsements/": {
+    "checked": "2026-10-20",
+    "fp": "3c95310cf9b3c22c",
+    "note": "California Environmental Voters (EnviroVoters) 2026 endorsements. Covers statewide offices, CA-8, BOE District 2, and Props 2, 4, 39, 43, 45. No endorsement listed for Lt. Governor, Assembly District 14, judicial retention, or local Pinole/West Contra Costa contests.",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "contra-costa-dems": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://contracostadems.com/endorsements/",
+  "probes": {
+   "https://contracostadems.com/endorsements/": {
+    "checked": "2026-10-20",
+    "fp": "270d2b04ee3a3df8",
+    "note": "DPCCC 2026 general election endorsements. Covers Pinole-relevant races (Pinole Council, CCCCD Ward 1, EBMUD Ward 3, AD14, CD8, statewide offices, Connect Bay Area, WCCUSD Measure V). No positions listed on statewide propositions or judicial retention. Pinole Council: only two candidates endorsed for",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "contra-costa-labor-council": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://www.cclabor.net/2026",
+  "probes": {
+   "https://www.cclabor.net/2026": {
+    "checked": "2026-10-20",
+    "fp": "74bcbacc5222620f",
+    "note": "2026 Labor Endorsements page. Covers statewide propositions plus local races and measures relevant to Pinole/West Contra Costa. No statewide candidate endorsements are listed, despite a 'Statewide Candidates' heading. Section headings appear misplaced relative to their content. Races outside the Pin",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "contra-costa-young-dems": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://cocoyoungdems.org/endorsements",
+  "probes": {
+   "https://cocoyoungdems.org/endorsements": {
+    "checked": "2026-10-20",
+    "fp": "59ba9b16f95a3d15",
+    "note": "November 2026 endorsements from Contra Costa Young Democrats. The page covers statewide offices, propositions, Pinole City Council, CCCCD Ward 1, EBMUD Ward 3, Measure RTM and WCCUSD Measure V. Its U.S. House endorsement (District 10) and other cities' and districts' races fall outside this area's b",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "courage-california": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://www.progressivevotersguide.com/california/2026/general/county/contracosta",
+  "probes": {
+   "https://www.progressivevotersguide.com/california/2026/general/county/contracosta": {
+    "checked": "2026-10-20",
+    "fp": "b7d5543118aa4a10",
+    "note": "Courage California Progressive Voters Guide for Contra Costa County. Covers CD-8, AD-14, statewide offices, BOE-2, statewide props, and Regional Measure RTM (Public Transit Revenue Measure). No recommendation for Insurance Commissioner; 'vote your values' on Prop 37. No judicial retention, WCCUSD, P",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "critical-resistance": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "home_fp": "75579075b2e74d1e",
+  "hopped": {},
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_nav": "2026-10-20",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": null,
+  "probes": {
+   "https://criticalresistance.org/": {
+    "checked": "2026-10-20",
+    "fp": "75579075b2e74d1e",
+    "note": "Organization home page with navigation, news posts, events and newspaper resources; no endorsements or ballot recommendations for the November 3, 2026 election are listed.",
+    "result": "no_endorsements"
+   },
+   "https://criticalresistance.org/resource-type/recommended-book/": {
+    "checked": "2026-10-20",
+    "fp": "6fdfaf1662360543",
+    "note": "Resource listing page for a recommended book (Trauma Stewardship, posted 2020); contains no election endorsements or ballot recommendations.",
+    "result": "no_endorsements"
+   }
+  },
+  "status": "no endorsements published yet"
+ },
+ "cta": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "home_fp": "8dde3d1081d33b99",
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_nav": "2026-10-20",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://cta.org/barrera",
+  "probes": {
+   "https://cta.org/barrera": {
+    "checked": "2026-10-20",
+    "fp": "12c402783b941c88",
+    "note": "Single-candidate campaign page for CTA's recommended candidate for Superintendent of Public Instruction, Richard Barrera, headed to the November general election. No other contests covered.",
+    "result": "endorsement_page"
+   },
+   "https://www.cta.org/": {
+    "checked": "2026-10-20",
+    "fp": "8dde3d1081d33b99",
+    "note": "This is CTA's home page, not an endorsement list. It promotes 'Yes on 3 - Protect Our Schools' and 'Richard Barrera for California SPI' in banners and news items, but there is no full voter guide here. Per the rules, a home page is not an endorsement page, so no endorsements are reported.",
+    "result": "no_endorsements"
+   },
+   "https://www.cta.org/event/election-day/2026-11-03": {
+    "checked": "2026-10-20",
+    "fp": "96ed5b77cc8764a0",
+    "note": "CTA calendar event page for Election Day (Nov 3, 2026). It describes CTA's recommendation process generally but lists no specific candidate or measure recommendations.",
+    "result": "no_endorsements"
+   },
+   "https://www.cta.org/our-advocacy/election-2026": {
+    "checked": "2026-10-20",
+    "fp": "0528fa17acc74e0f",
+    "note": "CTA's Election 2026 page has tabs labeled 'Initiatives', 'Candidates' and 'Oct. Council Recommendations', but no actual candidate or measure recommendations appear in the extracted text. The tab content was likely loaded dynamically or not captured. The page says to 'check back for more recommended ",
+    "result": "no_endorsements"
+   }
+  },
+  "status": "ok"
+ },
+ "east-bay-dsa": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://dsavoterguide.com/eastbay/simple-guide.html",
+  "probes": {
+   "https://dsavoterguide.com/eastbay/simple-guide.html": {
+    "checked": "2026-10-20",
+    "fp": "9ac8c77d9c2cfeb8",
+    "note": "East Bay DSA 2026 voter guide. Statewide races and propositions are attributed to California DSA. West Contra Costa Unified Measure V (School Parcel Tax Renewal) is recommended YES by East Bay DSA. The guide covers no Pinole City Council, CCCCD, EBMUD or judicial retention contests. Many other-city ",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "east-bay-for-everyone": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/",
+  "probes": {
+   "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/": {
+    "checked": "2026-10-20",
+    "fp": "41eb0278b3191e75",
+    "note": "The page's only endorsement on the Pinole/West Contra Costa ballot is YES on the Regional Transit Measure. The other endorsements cover Berkeley, Emeryville, Oakland, Alameda, San Leandro, BART D4 and AC Transit Wards 3/4, none of which are on this area's ballot. The sidebar links a post titled 'Vot",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "ebho": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://ebho.org/2026-campaign-endorsements/",
+  "probes": {
+   "https://ebho.org/2026-campaign-endorsements/": {
+    "checked": "2026-10-20",
+    "fp": "3b4e256528b92810",
+    "note": "EBHO 2026 endorsements: supports Connect Bay Area regional transit measure, Prop 1 housing bond; opposes Prop 43. Also endorses Berkeley Measure X (outside Pinole area, omitted) and Roadmap Home 2030 (policy platform, not a ballot contest).",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "el-cerrito-dem-club": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://ecdclub.org/endorsements-vote-results/",
+  "probes": {
+   "https://ecdclub.org/endorsements-vote-results/": {
+    "checked": "2026-10-20",
+    "fp": "e45d69ba5a338976",
+    "note": "Club endorsement vote results posted August 31, 2026. El Cerrito City Council and Stege Sanitary District races are outside Pinole scope. No endorsement in CCCCD Ward 1, Prop 38 or Prop 45 (60% threshold not met).",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "greenbelt-alliance": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://www.greenbelt.org/voter-guide-26/",
+  "probes": {
+   "https://www.greenbelt.org/voter-guide-26/": {
+    "checked": "2026-10-20",
+    "fp": "cf45a3048624a842",
+    "note": "Greenbelt Alliance 2026 voter guide. Relevant to Pinole/West Contra Costa: No on Prop 45, No on Prop 43, Yes on Regional Transit Measure (RTM). Other local measures (SF, Sonoma, Napa, Walnut Creek, Alameda, Albany, etc.) are outside this area and omitted. June 2026 primary results ignored.",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "greenlining": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "home_fp": "eb0fdb6ecb7e2feb",
+  "hopped": {},
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_nav": "2026-10-20",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": null,
+  "probes": {
+   "https://greenlining.org/": {
+    "checked": "2026-10-20",
+    "fp": "eb0fdb6ecb7e2feb",
+    "note": "This is the Greenlining Institute home page. It has organizational info, news posts and Just Future Summit 2026 event promotion, but no voter guide or endorsements for any 2026 ballot contest.",
+    "result": "no_endorsements"
+   }
+  },
+  "status": "no endorsements published yet"
+ },
+ "ilwu": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "home_fp": "2a1c2918ec6da218",
+  "hopped": {},
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_nav": "2026-10-20",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": null,
+  "probes": {
+   "https://www.ilwu.org/contact/district-councils/": {
+    "checked": "2026-10-20",
+    "fp": "63315a755df459bd",
+    "note": "Contact directory page listing ILWU district council addresses; contains no endorsements or recommendations for the November 3, 2026 election.",
+    "result": "no_endorsements"
+   },
+   "https://www.ilwu.org/international-executive-board-endorses-joe-biden-for-president/": {
+    "checked": "2026-10-20",
+    "fp": "d7dcd09f55aa92bc",
+    "note": "May 12, 2020 news post announcing the ILWU International Executive Board's endorsement of Joe Biden for President. It is from an older cycle and contains no endorsements for the November 3, 2026 general election.",
+    "result": "no_endorsements"
+   },
+   "https://www.ilwu.org/ncdc-withdraws-endorsement-of-hakeem-brown/": {
+    "checked": "2026-10-20",
+    "fp": "e5fc63f6f1e0065e",
+    "note": "An October 29, 2020 news post announcing that the ILWU Northern California District Council withdrew its endorsement of Hakeem Brown for Mayor of Vallejo. It does not cover the 2026 election or any contest on the Pinole / West Contra Costa ballot.",
+    "result": "no_endorsements"
+   },
+   "https://www.ilwu.org/the-dispatcher-newspaper/current-issue/": {
+    "checked": "2026-10-20",
+    "fp": "e117342b8579b649",
+    "note": "Page is the ILWU Dispatcher newspaper current-issue landing page (September 2026 cover). The cover shows news stories (Oakland cranes, Hawaii elections, voting rights statement) but lists no endorsements or recommendations for the November 3, 2026 ballot.",
+    "result": "no_endorsements"
+   },
+   "https://www.ilwu.org/three-ilwu-endorsed-candidates-win-socal-democratic-party-delegate-seats/": {
+    "checked": "2026-10-20",
+    "fp": "699ac4e55191257f",
+    "note": "2017 news post about ILWU-endorsed candidates winning Southern California Democratic Party delegate seats (January 2017 Assembly District Election Meetings). Not a 2026 voter guide; no contests on the November 3, 2026 Pinole/Contra Costa ballot are covered.",
+    "result": "no_endorsements"
+   }
+  },
+  "status": "no endorsements published yet"
+ },
+ "lwv-california": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://lwvc.org/ballot-recommendations-nov-3-2026/",
+  "probes": {
+   "https://lwvc.org/ballot-recommendations-nov-3-2026/": {
+    "checked": "2026-10-20",
+    "fp": "8abe7bec45fe177e",
+    "note": "LWVC recommendations on statewide ballot measures only; no candidate endorsements.",
+    "result": "endorsement_page"
+   },
+   "https://lwvc.org/pros-cons-ballot-measures-november-3-2026-general-election/": {
+    "checked": "2026-10-20",
+    "fp": "8f2efaa40805d042",
+    "note": "Announcement page linking to the LWVC Pros & Cons PDF on the statewide ballot measures. The Pros & Cons guide is neutral voter education, not recommendations, and the guide itself is not included on this page. Related-content links mention a 'NO on Prop 39' call by Los Angeles County supervisors, bu",
+    "result": "no_endorsements"
+   }
+  },
+  "status": "ok"
+ },
+ "norcal-resist": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "home_fp": "8f46a72f3c327b32",
+  "hopped": {},
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_nav": "2026-10-20",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": null,
+  "probes": {
+   "https://www.norcalresist.org/": {
+    "checked": "2026-10-20",
+    "fp": "8f46a72f3c327b32",
+    "note": "This is the organization's home page, covering mutual aid and immigrant defense programs. It contains no voter guide or endorsements for the November 3, 2026 election.",
+    "result": "no_endorsements"
+   },
+   "https://www.norcalresist.org/current-campaigns.html": {
+    "checked": "2026-10-20",
+    "fp": "f266fb4d0543e55d",
+    "note": "Fundraising campaigns page (community aid programs, migrant family support). No electoral endorsements or ballot recommendations for the November 3, 2026 election.",
+    "result": "no_endorsements"
+   }
+  },
+  "status": "no endorsements published yet"
+ },
+ "our-revolution": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://www.ourrevolutioneastbay.org/2026-endorsements.html",
+  "probes": {
+   "https://www.ourrevolutioneastbay.org/2026-endorsements.html": {
+    "checked": "2026-10-20",
+    "fp": "42900dc533e5f35d",
+    "note": "The page has headings for 'OREB Endorsed Candidates on Nov 3rd Ballot', but the actual list did not come through in the text, so it may be an image. Most items are candidate forum questionnaires, not stated endorsements. These include Pinole City Council (Lam-Julian), CCCCD Ward 1 (Sasai) and Assemb",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "planned-parenthood": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://www.plannedparenthoodaction.org/planned-parenthood-advocates-mar-monte/voter-guide-2026/ca-endorsements",
+  "probes": {
+   "https://www.plannedparenthoodaction.org/planned-parenthood-advocates-mar-monte/voter-guide-2026/ca-endorsements": {
+    "checked": "2026-10-20",
+    "fp": "6433e19e5b49dcef",
+    "note": "Planned Parenthood Advocates Mar Monte CA endorsements page. Covers statewide offices, BOE District 2, and statewide propositions. 'Bay Area Connect' support is mapped to Regional Measure RTM. No Contra Costa or Pinole local races or AD14 endorsement listed.",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "richmond-progressive-alliance": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://www.richmondprogressivealliance.org/voterguide2026",
+  "probes": {
+   "https://www.richmondprogressivealliance.org/voterguide2026": {
+    "checked": "2026-10-20",
+    "fp": "a99fc04ff3711b21",
+    "note": "RPA 2026 general election voter guide. The Richmond Mayor endorsement and Richmond Measure Q (fire station bond) are omitted because they are Richmond-only contests. Prop 44 is not addressed.",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "seiu-1021-521": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://www.seiu1021.org/post/election-endorsements-nov-3-2026",
+  "probes": {
+   "https://www.seiu1021.org/post/election-endorsements-nov-3-2026": {
+    "checked": "2026-10-20",
+    "fp": "e4e3bfd4cf77f048",
+    "note": "SEIU 1021 endorsement list covering statewide offices, state propositions, and Contra Costa/East Bay races relevant to Pinole. No positions given for Props 1, 37, 38, 45, judicial retentions, US House D8, Pinole council, or WCCUSD Measure V.",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "sierra-club-sf-bay": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://www.sierraclub.org/sfbay/2026-endorsements",
+  "probes": {
+   "https://www.sierraclub.org/sfbay/2026-endorsements": {
+    "checked": "2026-10-20",
+    "fp": "736da05f61cd00b4",
+    "note": "Sierra Club SF Bay Chapter 2026 endorsements. Covers statewide props, state offices, Regional Measure RTM and EBMUD Ward 3 relevant to Pinole. No endorsements listed for US House D8, Assembly D14, Pinole council, CCCCD Ward 1, WCCUSD Measure V, or judicial retention. Page says it will be updated.",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "spur": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://www.spur.org/voter-guide/2026-11/ca-prop-45-environmental-review-ceqa",
+  "probes": {
+   "https://www.spur.org/voter-guide/2026-11/ca-prop-45-environmental-review-ceqa": {
+    "checked": "2026-10-20",
+    "fp": "9e05ee72631620cd",
+    "note": "SPUR voter guide page for CA Prop 45 only; the board could not reach a supermajority consensus and gives No Recommendation.",
+    "result": "endorsement_page"
+   },
+   "https://www.spur.org/voter-guide/2026-11/oak-measure-ff-transfer-tax-foreclosures": {
+    "checked": "2026-10-20",
+    "fp": "0853d330ade1133f",
+    "note": "Page is SPUR's 2026 voter guide entry for Oakland Measure FF (Vote YES). This is an Oakland-only measure, not on the Pinole/West Contra Costa ballot; no registry contests are covered on this page.",
+    "result": "no_endorsements"
+   }
+  },
+  "status": "ok"
+ },
+ "transform": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://transformca.org/transform-2026-ballot-proposition-guide/",
+  "probes": {
+   "https://transformca.org/transform-2026-ballot-proposition-guide/": {
+    "checked": "2026-10-20",
+    "fp": "bb2b4475d4806822",
+    "note": "TransForm 2026 ballot measure guide. As a 501(c)3 it does not endorse candidates. Covers statewide Props 1, 39, 40, 41, 42, 43, 45 and regional Measure RTM. Its local measures (SF, Berkeley, Menlo Park, Walnut Creek, Redwood City, San Pablo) are outside Pinole and not reported.",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "west-county-dem-club": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": "https://www.westcountydemocraticclub.com/endorsements",
+  "probes": {
+   "https://www.westcountydemocraticclub.com/endorsements": {
+    "checked": "2026-10-20",
+    "fp": "1554f79836b1cfb4",
+    "note": "Club lists 2026 endorsed candidates and measures. Races for other cities and districts not on the Pinole ballot registry (El Cerrito, Hercules, Richmond, San Pablo, Stege, AC Transit, EBRPD, WCCUSD Area 5, John Swett USD, WCWD) were omitted.",
+    "result": "endorsement_page"
+   }
+  },
+  "status": "ok"
+ },
+ "young-womens-freedom-center": {
+  "alerted": false,
+  "consecutive_failures": 0,
+  "home_fp": "cc24170b19265b79",
+  "hopped": {
+   "https://youngwomenfree.org/": "cc24170b19265b79",
+   "https://youngwomenfree.org/la-voter-guide/": "98f4881637119646"
+  },
+  "last_checked": "2026-10-20T03:18:42Z",
+  "last_error": "",
+  "last_nav": "2026-10-20",
+  "last_ok": "2026-10-20T03:18:42Z",
+  "page_url": null,
+  "probes": {
+   "https://youngwomenfree.org/": {
+    "checked": "2026-10-20",
+    "fp": "cc24170b19265b79",
+    "note": "Organization home page with mission, locations, and news links; no endorsements or ballot recommendations for the 2026 election are listed.",
+    "result": "no_endorsements"
+   },
+   "https://youngwomenfree.org/2024_voterguide/": {
+    "checked": "2026-10-20",
+    "fp": "1f84a9abe45fa9f7",
+    "note": "This is the organization's 2024 voter guide (posted October 18, 2024) for the November 2024 election, which is an older cycle. The page text contains no specific recommendations, and nothing on it addresses the November 3, 2026 ballot.",
+    "result": "no_endorsements"
+   },
+   "https://youngwomenfree.org/advocacy-and-organizing/": {
+    "checked": "2026-10-20",
+    "fp": "c666319ac00f8578",
+    "note": "Advocacy & Organizing page describing policy goals and past co-sponsored legislation (AB 1186, AB 505). No endorsements or recommendations for any 2026 ballot contest are listed.",
+    "result": "no_endorsements"
+   },
+   "https://youngwomenfree.org/ca-voters-begin-mailing-in-ballots-from-libraries-senior-centers-and-increasingly-from-juvenile-halls/": {
+    "checked": "2026-10-20",
+    "fp": "6a4f1a65aa868474",
+    "note": "This is a 2024 news repost (The Imprint) about voting drives in juvenile halls ahead of the March 5, 2024 primary. It contains no endorsements or recommendations for the November 3, 2026 general election.",
+    "result": "no_endorsements"
+   },
+   "https://youngwomenfree.org/es/la-voter-guide/": {
+    "checked": "2026-10-20",
+    "fp": "ad65bddbe36f8514",
+    "note": "Spanish-language page for YWFC's 2022 LA Voter Guide (published Oct 29, 2022). No endorsement content is shown on the page itself. It links to a 2024 voter guide. Nothing addresses the November 3, 2026 ballot for Pinole/West Contra Costa.",
+    "result": "no_endorsements"
+   },
+   "https://youngwomenfree.org/la-voter-guide/": {
+    "checked": "2026-10-20",
+    "fp": "98f4881637119646",
+    "note": "Page is the 2022 LA Voter Guide post from October 2022, with no endorsement content visible. Related links point to a 2024 voter guide. Nothing on the page covers the November 3, 2026 election or Pinole/Contra Costa contests.",
+    "result": "no_endorsements"
+   },
+   "https://youngwomenfree.org/location/cccounty/": {
+    "checked": "2026-10-20",
+    "fp": "c59aa4a2a67be1cb",
+    "note": "This is the Contra Costa County location page for the Young Women's Freedom Center. It describes programs and staff and does not list any endorsements or ballot recommendations for the 2026 cycle.",
+    "result": "no_endorsements"
+   },
+   "https://youngwomenfree.org/sister-warriors-freedom-coalition/": {
+    "checked": "2026-10-20",
+    "fp": "01dc0c7760e44a20",
+    "note": "Staff listing page for the Sister Warriors Freedom Coalition. It names team members and has navigation and contact info only, with no endorsements or ballot recommendations for the November 3, 2026 election.",
+    "result": "no_endorsements"
+   }
+  },
+  "status": "no endorsements published yet"
+ }
+}

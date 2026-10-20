@@ -1,1 +1,3390 @@
-{}
+{
+ "350-bay-area-action": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "ec7d62ce6023ab4f",
+  "items": [
+   {
+    "candidates": [
+     "John Garamendi"
+    ],
+    "confidence": "medium",
+    "contest_key": "us-house-d8",
+    "contest_label": "U.S. House of Representatives (District 8)",
+    "evidence": "US Congress District 8: John Garamendi",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "low",
+    "contest_key": "unlisted",
+    "contest_label": "Contra Costa County Measure A – Urban Limit Line",
+    "evidence": "Yes on Contra Costa County Measure A  – Urban Limit Line",
+    "flags": [],
+    "position": "yes"
+   }
+  ],
+  "url": "https://350bayareaaction.org/electoral/2026-endorsed-climate-candidates"
+ },
+ "350-contra-costa-action": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "88743f08fee8701a",
+  "items": [
+   {
+    "candidates": [
+     "Cameron Sasai"
+    ],
+    "confidence": "high",
+    "contest_key": "ccccd-ward-1",
+    "contest_label": "Contra Costa Community College District Board (Ward 1)",
+    "evidence": "Contra Costa Community College Ward 1:\nCameron Sasai",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "John Gioia"
+    ],
+    "confidence": "high",
+    "contest_key": "unlisted",
+    "contest_label": "Contra Costa County Board of Supervisors District 1",
+    "evidence": "Contra Costa County Board of Supervisors District 1:\nJohn Gioia",
+    "flags": [],
+    "position": "candidate"
+   }
+  ],
+  "url": "https://350contracostaaction.org/contra-costa-climate-voter-guide-2026/"
+ },
+ "aapi-force-ef": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "2ff525db46954b5a",
+  "items": [
+   {
+    "candidates": [
+     "Jane Kim"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-insurance-commissioner",
+    "contest_label": "California Insurance Commissioner",
+    "evidence": "STATEWIDE ENDORSEMENTS Jane Kim INSURANCE COMMISSIONER",
+    "flags": [],
+    "position": "candidate"
+   }
+  ],
+  "url": "https://www.aapiforce.org/2026general"
+ },
+ "apen-action": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "de84934bb6ab184b",
+  "items": [
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-1",
+    "contest_label": "CA Proposition 1",
+    "evidence": "Yes On Prop 1",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-3",
+    "contest_label": "CA Proposition 3",
+    "evidence": "Yes On Prop 3",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-4",
+    "contest_label": "CA Proposition 4",
+    "evidence": "Yes On Prop 4",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-5",
+    "contest_label": "CA Proposition 5",
+    "evidence": "Yes On Prop 5",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "CA Proposition 39",
+    "evidence": "No On Prop 39",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-40",
+    "contest_label": "CA Proposition 40",
+    "evidence": "Yes on Prop 40",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-41",
+    "contest_label": "CA Proposition 41",
+    "evidence": "No On Prop 41",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-42",
+    "contest_label": "CA Proposition 42",
+    "evidence": "No On Prop 42",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "CA Proposition 43",
+    "evidence": "No On Prop 43",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-44",
+    "contest_label": "CA Proposition 44",
+    "evidence": "No On Prop 44",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "CA Proposition 45",
+    "evidence": "No On Prop 45",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "reg-measure-rtm",
+    "contest_label": "Regional Measure RTM",
+    "evidence": "Yes on RTM (Regional Transit Measure)",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "medium",
+    "contest_key": "wccusd-measure-v",
+    "contest_label": "Measure V (listed under Richmond)",
+    "evidence": "Yes on Measure V",
+    "flags": [],
+    "position": "yes"
+   }
+  ],
+  "url": "https://www.apenaction.org/endorsements/"
+ },
+ "bay-rising-action": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "43158b1b8e0785e7",
+  "items": [
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-1",
+    "contest_label": "CA Proposition 1",
+    "evidence": "Proposition 1\nYes\nFund Affordable Housing through Bond",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-2",
+    "contest_label": "CA Proposition 2",
+    "evidence": "Proposition 2\nYes\nExpand Rainy Day Fund to Save for CA’s Future",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-3",
+    "contest_label": "CA Proposition 3",
+    "evidence": "Proposition 3\nYes\nMaintain School Funding through Renewing Income Tax on Top 2%",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-4",
+    "contest_label": "CA Proposition 4",
+    "evidence": "Vote Yes on Prop 4.",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-5",
+    "contest_label": "CA Proposition 5",
+    "evidence": "Proposition 5\nYes\nReform the Recall Process of Elected Officials",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "medium",
+    "contest_key": "ca-prop-37",
+    "contest_label": "CA Proposition 37",
+    "evidence": "Proposition 37\nNeutral/No Position\nCreate Second Mortgage Program for Middle-Class Home-Buyers",
+    "flags": [],
+    "position": "neutral"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-38",
+    "contest_label": "CA Proposition 38",
+    "evidence": "Proposition 38\nNo\nRestrict Half of Immunology Medical Research Bond Funding to One Untested Institute",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "CA Proposition 39",
+    "evidence": "Vote No on Prop 39",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-40",
+    "contest_label": "CA Proposition 40",
+    "evidence": "Vote Yes on Prop 40",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-41",
+    "contest_label": "CA Proposition 41",
+    "evidence": "Vote No on Prop 41 & 42.",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-42",
+    "contest_label": "CA Proposition 42",
+    "evidence": "Vote No on Prop 41 & 42.",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "CA Proposition 43",
+    "evidence": "Vote No on Prop 43.",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-44",
+    "contest_label": "CA Proposition 44",
+    "evidence": "Proposition 44\nNo\nRestrict Community Clinic Spending that Serves Low-Income & Immigrant Communities",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "CA Proposition 45",
+    "evidence": "Proposition 45\nNo\nWeaken Clean Air & Water Protections on Construction Projects (CEQA rollback)",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "reg-measure-rtm",
+    "contest_label": "Regional Measure RTM",
+    "evidence": "YES Measure RTM\n: Alameda, Contra Costa, San Francisco, San Mateo, and Santa Clara Counties: Reinvest in Regional Public Transit",
+    "flags": [],
+    "position": "yes"
+   }
+  ],
+  "url": "https://bayrisingaction.org/voterguide/"
+ },
+ "ca-democratic-party": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "6fb9d1698e9053d8",
+  "items": [
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "CA Proposition 39, Prohibits Citizens from Voting Unless They Present Government-Issued Identification",
+    "evidence": "2026 Proposition Endorsements NO on Proposition 39",
+    "flags": [],
+    "position": "no"
+   }
+  ],
+  "url": "https://cadem.org/endorsements/"
+ },
+ "ca-labor-federation": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "cd54edf06e2e40d8",
+  "items": [
+   {
+    "candidates": [
+     "Xavier Becerra"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-governor",
+    "contest_label": "California Governor",
+    "evidence": "GOVERNOR: XAVIER BECERRA",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Fiona Ma"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-lt-governor",
+    "contest_label": "California Lieutenant Governor",
+    "evidence": "LIEUTENANT GOVERNOR: FIONA MA",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Shirley N. Weber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-secretary-of-state",
+    "contest_label": "California Secretary of State",
+    "evidence": "SECRETARY OF STATE: SHIRLEY WEBER",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Rob Bonta"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-attorney-general",
+    "contest_label": "California Attorney General",
+    "evidence": "ATTORNEY GENERAL: ROB BONTA",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Malia M. Cohen"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-controller",
+    "contest_label": "California Controller",
+    "evidence": "CONTROLLER: MALIA COHEN",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Eleni Kounalakis"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-treasurer",
+    "contest_label": "California Treasurer",
+    "evidence": "TREASURER: ELENI KOUNALAKIS",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Jane Kim"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-insurance-commissioner",
+    "contest_label": "California Insurance Commissioner",
+    "evidence": "INSURANCE COMMISSIONER: JANE KIM",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Richard Barrera"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-superintendent",
+    "contest_label": "California Superintendent of Public Instruction",
+    "evidence": "SUPERVISOR OF PUBLIC INSTRUCTION: RICHARD BARRERA",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Sally J. Lieber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-boe-d2",
+    "contest_label": "State Board of Equalization (District 2)",
+    "evidence": "BOARD OF EQUALIZATION, D2: SALLY LIEBER",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-1",
+    "contest_label": "CA Proposition 1",
+    "evidence": "YES ON PROP 1: Veterans and Affordable Housing Bond Act",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-2",
+    "contest_label": "CA Proposition 2",
+    "evidence": "YES ON PROP 2: Increases State's Rainy Day Fund",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-3",
+    "contest_label": "CA Proposition 3",
+    "evidence": "YES ON PROP 3: Protect Education Funding by Keeping Current Tax Rates On The Wealthiest 2% of Californians",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-4",
+    "contest_label": "CA Proposition 4",
+    "evidence": "YES ON PROP 4: Allows Communities to Get Rid of Corporate Financing of Elections",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-5",
+    "contest_label": "CA Proposition 5",
+    "evidence": "YES ON PROP 5: Updates Recall Election Process for Statewide Elected Officials",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-37",
+    "contest_label": "CA Proposition 37",
+    "evidence": "YES ON PROP 37: Creates Loan Program for Middle-Income New Homebuyers",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "CA Proposition 39",
+    "evidence": "NO ON PROP 39: Makes it Harder for Citizens to Vote in Elections",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-40",
+    "contest_label": "CA Proposition 40",
+    "evidence": "YES ON PROP 40: One-Time Tax on Billionaires to Fund Healthcare",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-41",
+    "contest_label": "CA Proposition 41",
+    "evidence": "NO ON PROP 41: Funded by Billionaires to Stop the Billionaires' Tax",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-42",
+    "contest_label": "CA Proposition 42",
+    "evidence": "NO ON PROP 42: Funded by Billionaires to Block Future Taxes on Billionaires",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "CA Proposition 43",
+    "evidence": "NO ON PROP 43: Makes it Harder for Voters to Fund Essential Public Services",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-44",
+    "contest_label": "CA Proposition 44",
+    "evidence": "YES ON PROP 44: Requires Community Clinics Spend 90% of Revenue on Patient Care & Services",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "CA Proposition 45",
+    "evidence": "NO ON PROP 45: Destroys the CA Environmental Quality Act",
+    "flags": [
+     "evidence_unchecked_image"
+    ],
+    "position": "no"
+   }
+  ],
+  "url": "https://calaborfed.org/labor-2026-primary-election-endorsements/"
+ },
+ "ca-working-families": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "0a62abb8144095d9",
+  "items": [
+   {
+    "candidates": [
+     "Jane Kim"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-insurance-commissioner",
+    "contest_label": "California Insurance Commissioner",
+    "evidence": "JANE KIM STATE INSURANCE COMMISSIONER",
+    "flags": [
+     "evidence_unchecked_pdf"
+    ],
+    "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-1",
+    "contest_label": "CA Proposition 1",
+    "evidence": "PROPOSITION 1 YES",
+    "flags": [
+     "evidence_unchecked_pdf"
+    ],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-2",
+    "contest_label": "CA Proposition 2",
+    "evidence": "PROPOSITION 2 YES",
+    "flags": [
+     "evidence_unchecked_pdf"
+    ],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-3",
+    "contest_label": "CA Proposition 3",
+    "evidence": "PROPOSITION 3 YES",
+    "flags": [
+     "evidence_unchecked_pdf"
+    ],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-4",
+    "contest_label": "CA Proposition 4",
+    "evidence": "PROPOSITION 4 YES",
+    "flags": [
+     "evidence_unchecked_pdf"
+    ],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-5",
+    "contest_label": "CA Proposition 5",
+    "evidence": "PROPOSITION 5 YES",
+    "flags": [
+     "evidence_unchecked_pdf"
+    ],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-38",
+    "contest_label": "CA Proposition 38",
+    "evidence": "PROPOSITION 38 YES",
+    "flags": [
+     "evidence_unchecked_pdf"
+    ],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "CA Proposition 39",
+    "evidence": "PROPOSITION 39 NO",
+    "flags": [
+     "evidence_unchecked_pdf"
+    ],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-40",
+    "contest_label": "CA Proposition 40",
+    "evidence": "PROPOSITION 40 YES",
+    "flags": [
+     "evidence_unchecked_pdf"
+    ],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-41",
+    "contest_label": "CA Proposition 41",
+    "evidence": "PROPOSITION 41 NO",
+    "flags": [
+     "evidence_unchecked_pdf"
+    ],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-42",
+    "contest_label": "CA Proposition 42",
+    "evidence": "PROPOSITION 42 NO",
+    "flags": [
+     "evidence_unchecked_pdf"
+    ],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "CA Proposition 43",
+    "evidence": "PROPOSITION 43 NO",
+    "flags": [
+     "evidence_unchecked_pdf"
+    ],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-44",
+    "contest_label": "CA Proposition 44",
+    "evidence": "PROPOSITION 44 NO",
+    "flags": [
+     "evidence_unchecked_pdf"
+    ],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "CA Proposition 45",
+    "evidence": "PROPOSITION 45 NO",
+    "flags": [
+     "evidence_unchecked_pdf"
+    ],
+    "position": "no"
+   },
+   {
+    "candidates": [
+     "Sally J. Lieber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-boe-d2",
+    "contest_label": "State Board of Equalization (District 2)",
+    "evidence": "SALLY LIEBER BOARD OF EQUALIZATION, DISTRICT 2",
+    "flags": [
+     "evidence_unchecked_pdf"
+    ],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Truc \"Christy\" Lam-Julian"
+    ],
+    "confidence": "high",
+    "contest_key": "pin-council",
+    "contest_label": "Pinole City Council",
+    "evidence": "TRUC \"CHRISTY\" LAM-JULIAN PINOLE CITY COUNCIL",
+    "flags": [
+     "evidence_unchecked_pdf"
+    ],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Cameron Sasai"
+    ],
+    "confidence": "medium",
+    "contest_key": "ccccd-ward-1",
+    "contest_label": "Contra Costa Community College District Board (Ward 1)",
+    "evidence": "CAMERON SASAI CONTRA COSTA COMMUNITY COLLEGE GOVERNING BOARD",
+    "flags": [
+     "evidence_unchecked_pdf"
+    ],
+    "position": "candidate"
+   }
+  ],
+  "url": "https://www.caworkingfamilies.org/voter-guide-general-election-2026.pdf"
+ },
+ "conservation-voters": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "3c95310cf9b3c22c",
+  "items": [
+   {
+    "candidates": [
+     "Xavier Becerra"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-governor",
+    "contest_label": "California Governor",
+    "evidence": "Governor\nXavier Becerra",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Rob Bonta"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-attorney-general",
+    "contest_label": "California Attorney General",
+    "evidence": "Attorney General\nRob Bonta",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Shirley N. Weber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-secretary-of-state",
+    "contest_label": "California Secretary of State",
+    "evidence": "Secretary of State\nShirley Weber",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Malia M. Cohen"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-controller",
+    "contest_label": "California Controller",
+    "evidence": "State Controller\nMalia Cohen",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Eleni Kounalakis"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-treasurer",
+    "contest_label": "California Treasurer",
+    "evidence": "State Treasurer\nEleni Kounalakis",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Ben Allen"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-insurance-commissioner",
+    "contest_label": "California Insurance Commissioner",
+    "evidence": "Insurance Commissioner\nBen Allen",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Richard Barrera"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-superintendent",
+    "contest_label": "California Superintendent of Public Instruction",
+    "evidence": "Superintendent of Public Instruction\nRichard Barrera",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "John Garamendi"
+    ],
+    "confidence": "high",
+    "contest_key": "us-house-d8",
+    "contest_label": "U.S. House of Representatives (District 8)",
+    "evidence": "CA 8\nJohn Garamendi",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Sally J. Lieber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-boe-d2",
+    "contest_label": "State Board of Equalization (District 2)",
+    "evidence": "Board of Equalization District 2\nSally Lieber",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-2",
+    "contest_label": "CA Proposition 2",
+    "evidence": "Vote YES\non Proposition 2",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-4",
+    "contest_label": "CA Proposition 4",
+    "evidence": "Vote YES\non Proposition 4",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "CA Proposition 39",
+    "evidence": "Vote NO\non Proposition 39",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "CA Proposition 43",
+    "evidence": "Vote NO\non Proposition 43",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "CA Proposition 45",
+    "evidence": "Vote NO on Proposition 45",
+    "flags": [],
+    "position": "no"
+   }
+  ],
+  "url": "https://envirovoters.org/2026-endorsements/"
+ },
+ "contra-costa-dems": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "270d2b04ee3a3df8",
+  "items": [
+   {
+    "candidates": [
+     "John Garamendi"
+    ],
+    "confidence": "high",
+    "contest_key": "us-house-d8",
+    "contest_label": "U.S. House District 8",
+    "evidence": "U.S. House · District 8\nJohn Garamendi",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Xavier Becerra"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-governor",
+    "contest_label": "Governor",
+    "evidence": "Governor\nXavier Beccera",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Fiona Ma"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-lt-governor",
+    "contest_label": "Lieutenant Governor",
+    "evidence": "Lieutenant Governor\nFiona Ma",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Shirley N. Weber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-secretary-of-state",
+    "contest_label": "Secretary of State",
+    "evidence": "Secretary of State\nShirley Weber",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Rob Bonta"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-attorney-general",
+    "contest_label": "Attorney General",
+    "evidence": "Attorney General\nRob Bonta",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Malia M. Cohen"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-controller",
+    "contest_label": "Controller",
+    "evidence": "Controller\nMalia Cohen",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Eleni Kounalakis"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-treasurer",
+    "contest_label": "Treasurer",
+    "evidence": "Treasurer\nEleni Kounalakis",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Ben Allen"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-insurance-commissioner",
+    "contest_label": "Insurance Commissioner",
+    "evidence": "Insurance Commissioner\nBen Allen",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Richard Barrera"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-superintendent",
+    "contest_label": "Superintendent of Public Instruction",
+    "evidence": "Superintendant of Public Instruction\nRichard Barrera",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Sally J. Lieber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-boe-d2",
+    "contest_label": "Board of Equalization District 2",
+    "evidence": "Board of Equalization · Area 2\nSally Lieber",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Buffy Wicks"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-assembly-d14",
+    "contest_label": "Assembly District 14",
+    "evidence": "Assembly District 14\nBuffy Wicks",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Gabriel Sandoval",
+     "Truc \"Christy\" Lam-Julian"
+    ],
+    "confidence": "high",
+    "contest_key": "pin-council",
+    "contest_label": "Pinole City Council",
+    "evidence": "Pinole City Council\nGabriel Sandoval\nCampaign Website\nPinole City Council\nChristy Lam-Julian",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Cameron Sasai"
+    ],
+    "confidence": "high",
+    "contest_key": "ccccd-ward-1",
+    "contest_label": "Contra Costa Community College District Ward 1",
+    "evidence": "Contra Costa Community College District · Ward 1\nCameron Sasai",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Marguerite Young"
+    ],
+    "confidence": "high",
+    "contest_key": "ebmud-ward-3",
+    "contest_label": "EBMUD Ward 3",
+    "evidence": "EBMUD · Ward 3\nMarguerite Young",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "reg-measure-rtm",
+    "contest_label": "Connect Bay Area",
+    "evidence": "Support\nConnect Bay Area\nA regional measure to provide dedicated funding for Bay Area public transit.",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "wccusd-measure-v",
+    "contest_label": "West Contra Costa Unified School District Measure V",
+    "evidence": "Support\nWest Contra Costa Unified School District Measure V",
+    "flags": [],
+    "position": "yes"
+   }
+  ],
+  "url": "https://contracostadems.com/endorsements/"
+ },
+ "contra-costa-labor-council": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "74bcbacc5222620f",
+  "items": [
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-1",
+    "contest_label": "CA Proposition 1",
+    "evidence": "YES on Prop 1:",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-2",
+    "contest_label": "CA Proposition 2",
+    "evidence": "YES on Prop 2:",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-3",
+    "contest_label": "CA Proposition 3",
+    "evidence": "YES on Prop 3:",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-4",
+    "contest_label": "CA Proposition 4",
+    "evidence": "YES on Prop 4:",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-5",
+    "contest_label": "CA Proposition 5",
+    "evidence": "YES on Prop 5:",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-37",
+    "contest_label": "CA Proposition 37",
+    "evidence": "YES on Prop 37:",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-38",
+    "contest_label": "CA Proposition 38",
+    "evidence": "Prop 38 (No Position):",
+    "flags": [],
+    "position": "no_position"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "CA Proposition 39",
+    "evidence": "NO on Prop 39:",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-40",
+    "contest_label": "CA Proposition 40",
+    "evidence": "YES on Prop 40:",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-41",
+    "contest_label": "CA Proposition 41",
+    "evidence": "NO on Prop 41:",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-42",
+    "contest_label": "CA Proposition 42",
+    "evidence": "NO on Prop 42:",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "CA Proposition 43",
+    "evidence": "NO on Prop 43:",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-44",
+    "contest_label": "CA Proposition 44",
+    "evidence": "YES on Prop 44:",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "CA Proposition 45",
+    "evidence": "NO on Prop 45:",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "reg-measure-rtm",
+    "contest_label": "Regional Measure RTM",
+    "evidence": "YES on Measure RTM",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "wccusd-measure-v",
+    "contest_label": "WCCUSD Measure V",
+    "evidence": "YES on Measure V:",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [
+     "Gabriel Sandoval",
+     "Truc \"Christy\" Lam-Julian"
+    ],
+    "confidence": "high",
+    "contest_key": "pin-council",
+    "contest_label": "Pinole City Council",
+    "evidence": "Pinole City Council: Gabriel Sandoval Pinole City Council: Christy Lam-Julian",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Cameron Sasai"
+    ],
+    "confidence": "high",
+    "contest_key": "ccccd-ward-1",
+    "contest_label": "Contra Costa Community College District Board (Ward 1)",
+    "evidence": "Contra Costa Community College Board, Ward 1: Cameron Sasai",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Marguerite Young"
+    ],
+    "confidence": "high",
+    "contest_key": "ebmud-ward-3",
+    "contest_label": "EBMUD Board (Ward 3)",
+    "evidence": "East Bay MUD District, Ward 3: Marguerite Young",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Mark Foley"
+    ],
+    "confidence": "medium",
+    "contest_key": "unlisted",
+    "contest_label": "Bay Area Rapid Transit Board, Ward 2",
+    "evidence": "Bay Area Rapid Transit Board, Ward 2: Mark Foley",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Colin Coffey"
+    ],
+    "confidence": "medium",
+    "contest_key": "unlisted",
+    "contest_label": "East Bay Regional Park, District 7",
+    "evidence": "East Bay Regional Park, District 7: Colin Coffey",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Demetrio Gonzales-Hoy"
+    ],
+    "confidence": "medium",
+    "contest_key": "unlisted",
+    "contest_label": "West Contra Costa USD, Ward 4",
+    "evidence": "West Contra Costa USD, Ward 4: Demetrio Gonzales-Hoy",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Caitlin Garibaldi"
+    ],
+    "confidence": "medium",
+    "contest_key": "unlisted",
+    "contest_label": "West Contra Costa USD, Ward 5",
+    "evidence": "West Contra Costa USD, Ward 5: Caitlin Garibaldi",
+    "flags": [],
+    "position": "candidate"
+   }
+  ],
+  "url": "https://www.cclabor.net/2026"
+ },
+ "contra-costa-young-dems": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "59ba9b16f95a3d15",
+  "items": [
+   {
+    "candidates": [
+     "Shirley N. Weber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-secretary-of-state",
+    "contest_label": "California Secretary of State",
+    "evidence": "Secretary of State: Shirley Weber",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Jane Kim"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-insurance-commissioner",
+    "contest_label": "California Insurance Commissioner",
+    "evidence": "Insurance Commissioner: Jane Kim",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Sally J. Lieber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-boe-d2",
+    "contest_label": "State Board of Equalization (District 2)",
+    "evidence": "Board of Equalization, District 2: Sally Lieber",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Truc \"Christy\" Lam-Julian",
+     "Gabriel Sandoval"
+    ],
+    "confidence": "high",
+    "contest_key": "pin-council",
+    "contest_label": "Pinole City Council (3 seats)",
+    "evidence": "Pinole City Council: Truc “Christy” Lam Julian 🔗 Gabriel Sandoval",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Cameron Sasai"
+    ],
+    "confidence": "high",
+    "contest_key": "ccccd-ward-1",
+    "contest_label": "Contra Costa Community College District Board (Ward 1)",
+    "evidence": "Contra Costa Community College District (Ward 1): Cameron Sasai",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Marguerite Young"
+    ],
+    "confidence": "high",
+    "contest_key": "ebmud-ward-3",
+    "contest_label": "East Bay Municipal Utility District Board (Ward 3)",
+    "evidence": "EBMUD (Ward 3): Marguerite Young",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-1",
+    "contest_label": "CA Proposition 1",
+    "evidence": "Proposition 1: YES",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-2",
+    "contest_label": "CA Proposition 2",
+    "evidence": "Proposition 2: YES",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-3",
+    "contest_label": "CA Proposition 3",
+    "evidence": "Proposition 3: YES",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-4",
+    "contest_label": "CA Proposition 4",
+    "evidence": "Proposition 4: YES",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-5",
+    "contest_label": "CA Proposition 5",
+    "evidence": "Proposition 5: YES",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-37",
+    "contest_label": "CA Proposition 37",
+    "evidence": "Proposition 37: YES",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-38",
+    "contest_label": "CA Proposition 38",
+    "evidence": "Proposition 38: YES",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "CA Proposition 39",
+    "evidence": "Proposition 39: NO",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-40",
+    "contest_label": "CA Proposition 40",
+    "evidence": "Proposition 40: YES",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-41",
+    "contest_label": "CA Proposition 41",
+    "evidence": "Proposition 41: NO",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-42",
+    "contest_label": "CA Proposition 42",
+    "evidence": "Proposition 42: NO",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "CA Proposition 43",
+    "evidence": "Proposition 43: NO",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "CA Proposition 45",
+    "evidence": "Proposition 45: NO",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "reg-measure-rtm",
+    "contest_label": "Regional Measure RTM",
+    "evidence": "RTM – Regional Transit Measure: YES",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "wccusd-measure-v",
+    "contest_label": "WCCUSD Measure V",
+    "evidence": "V – West Contra Costa Unified School District: YES",
+    "flags": [],
+    "position": "yes"
+   }
+  ],
+  "url": "https://cocoyoungdems.org/endorsements"
+ },
+ "courage-california": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "b7d5543118aa4a10",
+  "items": [
+   {
+    "candidates": [
+     "John Garamendi"
+    ],
+    "confidence": "high",
+    "contest_key": "us-house-d8",
+    "contest_label": "U.S. House of Representatives (District 8)",
+    "evidence": "Re-elect Rep. John Garamendi to keep CD-8 on the right track for progress.",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Buffy Wicks"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-assembly-d14",
+    "contest_label": "California State Assembly (District 14)",
+    "evidence": "Re-elect State Assemblymember Buffy Wicks to keep AD-14 on the right track for progress.",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Xavier Becerra"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-governor",
+    "contest_label": "California Governor",
+    "evidence": "Elect Xavier Becerra for Governor to keep California on the right track for progress.",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Fiona Ma"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-lt-governor",
+    "contest_label": "California Lieutenant Governor",
+    "evidence": "Elect Fiona Ma for Lieutenant Governor to keep California on the right track for progress.",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Rob Bonta"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-attorney-general",
+    "contest_label": "California Attorney General",
+    "evidence": "Courage California endorses Attorney General Rob Bonta for re-election to keep California on the right track for progress.",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Shirley N. Weber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-secretary-of-state",
+    "contest_label": "California Secretary of State",
+    "evidence": "Re-elect Secretary of State Dr. Shirley Weber to keep California on the right track for progress.",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Eleni Kounalakis"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-treasurer",
+    "contest_label": "California Treasurer",
+    "evidence": "Elect Eleni Kounalakis for Treasurer to keep California on the right track for progress.",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Malia M. Cohen"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-controller",
+    "contest_label": "California Controller",
+    "evidence": "Re-elect Controller Malia Cohen to keep California on the right track for progress.",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "low",
+    "contest_key": "ca-insurance-commissioner",
+    "contest_label": "California Insurance Commissioner",
+    "evidence": "No Recommendation We recommend that you choose the Democratic candidate who best aligns to your values in this race.",
+    "flags": [
+     "candidate_position_without_names"
+    ],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Richard Barrera"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-superintendent",
+    "contest_label": "California Superintendent of Public Instruction",
+    "evidence": "Elect Richard Barrera for State Superintendent to keep California on the right track for progress.",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Sally J. Lieber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-boe-d2",
+    "contest_label": "State Board of Equalization (District 2)",
+    "evidence": "Re-elect Sally Lieber to the Board of Equalization to keep California on the right track for progress.",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "reg-measure-rtm",
+    "contest_label": "Regional Measure RTM (Public Transit Revenue Measure)",
+    "evidence": "VOTE YES ON THE PUBLIC TRANSIT REVENUE MEASURE",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-1",
+    "contest_label": "CA Proposition 1",
+    "evidence": "VOTE YES ON PROP 1",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-2",
+    "contest_label": "CA Proposition 2",
+    "evidence": "VOTE YES ON PROP 2",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-3",
+    "contest_label": "CA Proposition 3",
+    "evidence": "VOTE YES ON PROP 3",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-4",
+    "contest_label": "CA Proposition 4",
+    "evidence": "VOTE YES ON PROP 4",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-5",
+    "contest_label": "CA Proposition 5",
+    "evidence": "VOTE YES ON PROP 5",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-37",
+    "contest_label": "CA Proposition 37",
+    "evidence": "No Position Proposition #37 VOTE YOUR VALUES ON PROP 37",
+    "flags": [],
+    "position": "no_position"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-38",
+    "contest_label": "CA Proposition 38",
+    "evidence": "VOTE NO ON PROP 38",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "CA Proposition 39",
+    "evidence": "VOTE NO ON PROP 39",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-40",
+    "contest_label": "CA Proposition 40",
+    "evidence": "VOTE YES ON PROP 40",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-41",
+    "contest_label": "CA Proposition 41",
+    "evidence": "VOTE NO ON PROP 41",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-42",
+    "contest_label": "CA Proposition 42",
+    "evidence": "VOTE NO ON PROP 42",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "CA Proposition 43",
+    "evidence": "VOTE NO ON PROP 43",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-44",
+    "contest_label": "CA Proposition 44",
+    "evidence": "VOTE NO ON PROP 44",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "CA Proposition 45",
+    "evidence": "VOTE NO ON PROP 45",
+    "flags": [],
+    "position": "no"
+   }
+  ],
+  "url": "https://www.progressivevotersguide.com/california/2026/general/county/contracosta"
+ },
+ "critical-resistance": {},
+ "cta": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "12c402783b941c88",
+  "items": [
+   {
+    "candidates": [
+     "Richard Barrera"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-superintendent",
+    "contest_label": "California Superintendent of Public Instruction",
+    "evidence": "Our CTA-recommended candidate Richard Barrera is headed to the General Election",
+    "flags": [],
+    "position": "candidate"
+   }
+  ],
+  "url": "https://cta.org/barrera"
+ },
+ "east-bay-dsa": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "9ac8c77d9c2cfeb8",
+  "items": [
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "us-house-d8",
+    "contest_label": "U.S. House - District 8",
+    "evidence": "California DSA takes no position on U.S. House - District 8.",
+    "flags": [],
+    "position": "no_position"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-1",
+    "contest_label": "Prop 1 - Veteran and Income-Qualified Housing Bond Measure",
+    "evidence": "California DSA recommends a YES vote on Prop 1.",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-2",
+    "contest_label": "Prop 2 - Budget Stabilization Account Cap Increase and Gann Limit Changes Amendment",
+    "evidence": "California DSA recommends a YES vote on Prop 2.",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-3",
+    "contest_label": "Prop 3 - Renew State Income Tax Increase for Education Funding Initiative",
+    "evidence": "California DSA endorses a YES vote on Prop 3.",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-37",
+    "contest_label": "Prop 37 - Second Mortgage Homebuyer Program and Revenue Bond Initiative",
+    "evidence": "California DSA takes no position on Prop 37.",
+    "flags": [],
+    "position": "no_position"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-38",
+    "contest_label": "Prop 38 - Establish Immunology and Immunotherapy Research Institute Initiative",
+    "evidence": "California DSA recommends a NO vote on Prop 38.",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "Prop 39 - Voter Identification, Citizenship Verification, and Registered Voter List Administration Initiative",
+    "evidence": "California DSA recommends a NO vote on Prop 39.",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-4",
+    "contest_label": "Prop 4 - Allow Public Financing of Election Campaigns Measure",
+    "evidence": "California DSA recommends a YES vote on Prop 4.",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-40",
+    "contest_label": "Prop 40 - One-Time Wealth Tax for State-Funded Health Care Programs Initiative",
+    "evidence": "California DSA endorses a YES vote on Prop 40.",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-41",
+    "contest_label": "Prop 41 - Prohibit Excluding New State Taxes from Spending Limit and Require Special Tax Audits Initiative",
+    "evidence": "California DSA recommends a NO vote on Prop 41.",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-42",
+    "contest_label": "Prop 42 - Prohibit New Taxes on Retirement Holdings, Personal Assets, and Savings and Limit Retroactive Taxes Initiative",
+    "evidence": "California DSA recommends a NO vote on Prop 42.",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "Prop 43 - Two-Thirds Vote Requirement for Local Special Tax Initiatives and Property Tax Initiative Prohibition Amendment",
+    "evidence": "California DSA recommends a NO vote on Prop 43.",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-44",
+    "contest_label": "Prop 44 - Spending Requirements for Federally Qualified Health Centers Initiative",
+    "evidence": "California DSA recommends a YES vote on Prop 44.",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "Prop 45 - Expedited Environmental Review Process for Certain Projects Initiative",
+    "evidence": "California DSA recommends a NO vote on Prop 45.",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-5",
+    "contest_label": "Prop 5 - Eliminate State Officer Recall Successor Elections Amendment",
+    "evidence": "California DSA recommends a YES vote on Prop 5.",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [
+     "Mark Rendon"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-assembly-d14",
+    "contest_label": "California State Assembly - District 14",
+    "evidence": "California DSA recommends Mark Rendon for California State Assembly - District 14.",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-attorney-general",
+    "contest_label": "Attorney General",
+    "evidence": "California DSA takes no position on Attorney General.",
+    "flags": [],
+    "position": "no_position"
+   },
+   {
+    "candidates": [
+     "Sally J. Lieber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-boe-d2",
+    "contest_label": "Board of Equalization - District 2",
+    "evidence": "California DSA recommends Sally Lieber for Board of Equalization - District 2.",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-controller",
+    "contest_label": "Controller",
+    "evidence": "California DSA takes no position on Controller.",
+    "flags": [],
+    "position": "no_position"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-governor",
+    "contest_label": "Governor",
+    "evidence": "California DSA takes no position on Governor.",
+    "flags": [],
+    "position": "no_position"
+   },
+   {
+    "candidates": [
+     "Jane Kim"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-insurance-commissioner",
+    "contest_label": "Insurance Commissioner",
+    "evidence": "California DSA recommends Jane Kim for Insurance Commissioner.",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-lt-governor",
+    "contest_label": "Lieutenant Governor",
+    "evidence": "California DSA takes no position on Lieutenant Governor.",
+    "flags": [],
+    "position": "no_position"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-secretary-of-state",
+    "contest_label": "Secretary of State",
+    "evidence": "California DSA takes no position on Secretary of State.",
+    "flags": [],
+    "position": "no_position"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-superintendent",
+    "contest_label": "Superintendent of Public Instruction",
+    "evidence": "California DSA takes no position on Superintendent of Public Instruction.",
+    "flags": [],
+    "position": "no_position"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-treasurer",
+    "contest_label": "Treasurer",
+    "evidence": "California DSA takes no position on Treasurer.",
+    "flags": [],
+    "position": "no_position"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "reg-measure-rtm",
+    "contest_label": "Measure RTM - Regional Transit Measure",
+    "evidence": "California DSA recommends a YES vote on Measure RTM, a regional transit measure on the ballot in Alameda and Contra Costa counties.",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "wccusd-measure-v",
+    "contest_label": "Measure V - School Parcel Tax Renewal",
+    "evidence": "East Bay DSA recommends a YES vote on Measure V.",
+    "flags": [],
+    "position": "yes"
+   }
+  ],
+  "url": "https://dsavoterguide.com/eastbay/simple-guide.html"
+ },
+ "east-bay-for-everyone": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "41eb0278b3191e75",
+  "items": [
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "reg-measure-rtm",
+    "contest_label": "Regional Measure RTM, Connect Bay Area Transit Initiative (Transit Funding)",
+    "evidence": "Regional Transit Measure – YES",
+    "flags": [],
+    "position": "yes"
+   }
+  ],
+  "url": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"
+ },
+ "ebho": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "3b4e256528b92810",
+  "items": [
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "reg-measure-rtm",
+    "contest_label": "Regional Measure RTM, Connect Bay Area Transit Initiative",
+    "evidence": "Now, we need to gear up for phase two of the campaign so we can get the measure passed in November.",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-1",
+    "contest_label": "CA Proposition 1, Veterans and Affordable Housing Bond Act of 2026",
+    "evidence": "Join us on Wednesday, September 30 to learn about why we support Proposition 1",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "CA Proposition 43",
+    "evidence": "NO on Proposition 43",
+    "flags": [],
+    "position": "no"
+   }
+  ],
+  "url": "https://ebho.org/2026-campaign-endorsements/"
+ },
+ "el-cerrito-dem-club": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "e45d69ba5a338976",
+  "items": [
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ccccd-ward-1",
+    "contest_label": "Contra Costa Community College District Board (Ward 1)",
+    "evidence": "Contra Costa Community College District, Ward 1 NO CANDIDATE MET THE 60% THRESHOLD FOR ENDORSEMENT",
+    "flags": [],
+    "position": "no_endorsement"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "wccusd-measure-v",
+    "contest_label": "West Contra Costa Unified School District Measure V",
+    "evidence": "West Contra Costa Unified School District, Measure V (parcel tax renewal) Valid votes 90 Yes 84 93.3% ENDORSED",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "reg-measure-rtm",
+    "contest_label": "Regional Measure RTM",
+    "evidence": "Regional Transit Measure (half cent sales tax for BART and other transit) Valid votes 94 Yes 85 90.4% ENDORSED",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-1",
+    "contest_label": "CA Proposition 1",
+    "evidence": "CA Proposition 1 (housing & veteran bonds) Valid votes 82 Yes 70 85.4% ENDORSED",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-2",
+    "contest_label": "CA Proposition 2",
+    "evidence": "CA Proposition 2 (budget stabilization) Valid votes 72 Yes 58 80.6% ENDORSED",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-3",
+    "contest_label": "CA Proposition 3",
+    "evidence": "CA Proposition 3 (tax rates on high earners) Valid votes 87 Yes 76 87.4% ENDORSED",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-4",
+    "contest_label": "CA Proposition 4",
+    "evidence": "CA Proposition 4 (public financing of campaigns) Valid votes 81 Yes 66 81.5% ENDORSED",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-5",
+    "contest_label": "CA Proposition 5",
+    "evidence": "CA Proposition 5 (recall election reform) Valid votes 75 Yes 54 72.0% ENDORSED",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-37",
+    "contest_label": "CA Proposition 37",
+    "evidence": "CA Proposition 37 (middle income homebuyer loans) Valid votes 82 Yes 63 76.8% ENDORSED",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-38",
+    "contest_label": "CA Proposition 38",
+    "evidence": "CA Proposition 38 (immunology research bonds) NO CHOICE MET THE 60% THRESHOLD FOR ENDORSEMENT",
+    "flags": [],
+    "position": "no_endorsement"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "CA Proposition 39",
+    "evidence": "No 71 86.6% ENDORSED",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-40",
+    "contest_label": "CA Proposition 40",
+    "evidence": "CA Proposition 40 (billionaire tax) Valid votes 91 Yes 64 70.3% ENDORSED",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-41",
+    "contest_label": "CA Proposition 41",
+    "evidence": "No 65 77.4% ENDORSED",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-42",
+    "contest_label": "CA Proposition 42",
+    "evidence": "No 75 89.3% ENDORSED",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "CA Proposition 43",
+    "evidence": "No 70 83.3% ENDORSED",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-44",
+    "contest_label": "CA Proposition 44",
+    "evidence": "No 53 71.6% ENDORSED",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "CA Proposition 45",
+    "evidence": "CA Proposition 45 (CEQA environmental review) NO CHOICE MET THE 60% THRESHOLD FOR ENDORSEMENT",
+    "flags": [],
+    "position": "no_endorsement"
+   }
+  ],
+  "url": "https://ecdclub.org/endorsements-vote-results/"
+ },
+ "greenbelt-alliance": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "cf45a3048624a842",
+  "items": [
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "CA Proposition 45, Modifies Environmental Review for Certain Projects",
+    "evidence": "Vote No on Prop 45: Rolling Back CEQA Is A Proposition Californians Can’t Afford",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "CA Proposition 43, Limits Voters’ Ability to Raise Revenues for Local Government Services",
+    "evidence": "Vote No on Proposition 43 to Keep Citizen-Led Tax Measures Accessible",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "reg-measure-rtm",
+    "contest_label": "Regional Measure RTM, Connect Bay Area Transit Initiative",
+    "evidence": "Greenbelt Alliance endorses a YES vote on the Regional Transit Measure in November to save the Bay Area’s public transit and fight climate change.",
+    "flags": [],
+    "position": "yes"
+   }
+  ],
+  "url": "https://www.greenbelt.org/voter-guide-26/"
+ },
+ "greenlining": {},
+ "ilwu": {},
+ "lwv-california": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "8abe7bec45fe177e",
+  "items": [
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-1",
+    "contest_label": "CA Proposition 1",
+    "evidence": "YES on Prop 1: VETERANS & AFFORDABLE HOUSING BONDS",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-2",
+    "contest_label": "CA Proposition 2",
+    "evidence": "YES on Prop 2: SAVE FOR CALIFORNIA’S FUTURE ACT",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-3",
+    "contest_label": "CA Proposition 3",
+    "evidence": "YES on Prop 3: CHILDREN’S EDUCATION & HEALTH CARE PROTECTION",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-4",
+    "contest_label": "CA Proposition 4",
+    "evidence": "YES on Prop 4: CALIFORNIA FAIR ELECTIONS ACT",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-5",
+    "contest_label": "CA Proposition 5",
+    "evidence": "YES on Prop 5: RECALL ELECTION REFORM FOR STATEWIDE OFFICERS",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-37",
+    "contest_label": "CA Proposition 37",
+    "evidence": "NO on Prop 37: LOAN PROGRAM FOR MIDDLE-INCOME BUYERS OF NEW HOMES",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-38",
+    "contest_label": "CA Proposition 38",
+    "evidence": "NO on Prop 38: BONDS FOR IMMUNOLOGY MEDICAL RESEARCH",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "CA Proposition 39",
+    "evidence": "NO on Prop 39: PROHIBITS VOTING WITHOUT GOVERNMENT-ISSUED ID",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-40",
+    "contest_label": "CA Proposition 40",
+    "evidence": "NEUTRAL on Prop 40: BILLIONAIRE TAX",
+    "flags": [],
+    "position": "neutral"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-41",
+    "contest_label": "CA Proposition 41",
+    "evidence": "NO on Prop 41: LIMITS NEW STATE TAXES & REQUIRES SPECIAL TAX AUDITS",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-42",
+    "contest_label": "CA Proposition 42",
+    "evidence": "NO on Prop 42: LIMITS NEW STATE TAXES ON PERSONAL PROPERTY",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "CA Proposition 43",
+    "evidence": "NO on Prop 43: LIMITS VOTERS’ ABILITY TO RAISE REVENUES FOR LOCAL GOVERNMENT SERVICES",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-44",
+    "contest_label": "CA Proposition 44",
+    "evidence": "NO on Prop 44: 90% HEALTH CARE SPENDING FOR NONPROFIT SAFETY-NET CLINICS",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "CA Proposition 45",
+    "evidence": "NO on Prop 45: MODIFIES ENVIRONMENTAL REVIEW FOR CERTAIN PROJECTS",
+    "flags": [],
+    "position": "no"
+   }
+  ],
+  "url": "https://lwvc.org/ballot-recommendations-nov-3-2026/"
+ },
+ "norcal-resist": {},
+ "our-revolution": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "42900dc533e5f35d",
+  "items": [
+   {
+    "candidates": [
+     "Jane Kim"
+    ],
+    "confidence": "medium",
+    "contest_key": "ca-insurance-commissioner",
+    "contest_label": "California Insurance Commissioner",
+    "evidence": "Primary and on to the general ... CA Insurance Commissioner - Jane Kim",
+    "flags": [
+     "evidence_not_found_in_page"
+    ],
+    "position": "candidate"
+   }
+  ],
+  "url": "https://www.ourrevolutioneastbay.org/2026-endorsements.html"
+ },
+ "planned-parenthood": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "6433e19e5b49dcef",
+  "items": [
+   {
+    "candidates": [
+     "Xavier Becerra"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-governor",
+    "contest_label": "California Governor",
+    "evidence": "PPAC STATEWIDE ENDORSED Xavier Becerra Governor",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Fiona Ma"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-lt-governor",
+    "contest_label": "California Lieutenant Governor",
+    "evidence": "Fiona Ma Lieutenant Governor",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Rob Bonta"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-attorney-general",
+    "contest_label": "California Attorney General",
+    "evidence": "Rob Bonta Attorney General",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Shirley N. Weber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-secretary-of-state",
+    "contest_label": "California Secretary of State",
+    "evidence": "Dr. Shirley Weber Secretary of State",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Eleni Kounalakis"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-treasurer",
+    "contest_label": "California Treasurer",
+    "evidence": "Eleni Kounalakis Treasurer",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Malia M. Cohen"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-controller",
+    "contest_label": "California Controller",
+    "evidence": "Malia Cohen Controller",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Richard Barrera"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-superintendent",
+    "contest_label": "California Superintendent of Public Instruction",
+    "evidence": "Richard Barrera Superintendent of Public Instruction",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Ben Allen"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-insurance-commissioner",
+    "contest_label": "California Insurance Commissioner",
+    "evidence": "Ben Allen Insurance Commissioner",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Sally J. Lieber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-boe-d2",
+    "contest_label": "State Board of Equalization (District 2)",
+    "evidence": "Sally J. Lieber Board of Equalization, District 2",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-2",
+    "contest_label": "CA Proposition 2",
+    "evidence": "Proposition 2: Save for California's Future Act SUPPORT Endorsed by PPAC",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-3",
+    "contest_label": "CA Proposition 3",
+    "evidence": "Proposition 3: The California Children’s Education and Health Care Protections Act of 2026 SUPPORT",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "CA Proposition 39",
+    "evidence": "Proposition 39: California Voter ID Initiative 2026 OPPOSE",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "CA Proposition 43",
+    "evidence": "Proposition 43: Local taxes: limitation OPPOSE",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-44",
+    "contest_label": "CA Proposition 44",
+    "evidence": "Proposition 44: Clinic Funding Accountability & Transparency Act OPPOSE",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "medium",
+    "contest_key": "reg-measure-rtm",
+    "contest_label": "Regional Measure RTM, Connect Bay Area Transit Initiative",
+    "evidence": "Bay Area Connect SUPPORT",
+    "flags": [],
+    "position": "yes"
+   }
+  ],
+  "url": "https://www.plannedparenthoodaction.org/planned-parenthood-advocates-mar-monte/voter-guide-2026/ca-endorsements"
+ },
+ "richmond-progressive-alliance": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "a99fc04ff3711b21",
+  "items": [
+   {
+    "candidates": [
+     "Mark Rendon"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-assembly-d14",
+    "contest_label": "California State Assembly (District 14)",
+    "evidence": "Mark Rendón , State Assembly District 14 (incumbent is Buffy Wicks)",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "reg-measure-rtm",
+    "contest_label": "Measure RTM - Connect Bay Area Transit Initiative",
+    "evidence": "Measure RTM - C onnect Bay Area Transit Initiative Recommendation:  YES",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "wccusd-measure-v",
+    "contest_label": "Measure V - Parcel Tax Continuation for West Contra Costa Unified School District",
+    "evidence": "Measure V - Parcel Tax Continuation for West Contra Costa Unified School District Recommendation: Yes",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-1",
+    "contest_label": "Proposition 1 - Veterans and Affordable Housing Bond",
+    "evidence": "Proposition 1 - Veterans and Affordable Housing Bond Recommendation: YES",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-2",
+    "contest_label": "Proposition 2 - Rainy Day Fund",
+    "evidence": "Rainy Day Fund – Increase allowable additions from General Fund – No position",
+    "flags": [],
+    "position": "no_position"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-3",
+    "contest_label": "Proposition 3 - Make the High-Earner Income Tax Permanent",
+    "evidence": "Make the High-Earner Income Tax Permanent Recommendation:  YES",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-4",
+    "contest_label": "Proposition 4 - Public campaign financing",
+    "evidence": "Proposition 4 Public campaign financing [no position]",
+    "flags": [],
+    "position": "no_position"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-5",
+    "contest_label": "Proposition 5 - Recall elections",
+    "evidence": "Proposition 5 Recall elections [no position]",
+    "flags": [],
+    "position": "no_position"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-37",
+    "contest_label": "Proposition 37 - Loan Program for Middle-Income Buyers",
+    "evidence": "Proposition 37 – Loan Program for Middle-Income Buyers [no recommendation]",
+    "flags": [],
+    "position": "no_endorsement"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-38",
+    "contest_label": "Proposition 38 - Bonds for Immunology Research",
+    "evidence": "Proposition 38 - Bonds for Immunology Research [no recommendation]",
+    "flags": [],
+    "position": "no_endorsement"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "Proposition 39 - Voter ID and Citizenship Verification Requirements",
+    "evidence": "Proposition 39 - Voter ID and Citizenship Verification Requirements Recommendation:  NO",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-40",
+    "contest_label": "Proposition 40 - Billionaire's Tax",
+    "evidence": "Proposition 40 - Billionaire’s Tax Recommendation:  YES",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-41",
+    "contest_label": "Proposition 41 - Prohibit Excluding New State Taxes from Spending Limit and Require Special Tax Audits Initiative",
+    "evidence": "Prohibit Excluding New State Taxes from Spending Limit and Require Special Tax Audits Initiative Recommendation: NO",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-42",
+    "contest_label": "Proposition 42 - Prohibit new personal property tax and retroactive taxes",
+    "evidence": "Proposition 42 - Prohibit new personal property tax and retroactive taxes Recommendation: NO",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "Proposition 43 - Two-Thirds Vote Requirement for Local Special Tax Initiatives",
+    "evidence": "Two-Thirds Vote Requirement for Local Special Tax Initiatives Recommendation: NO",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "Proposition 45 - Expedited Environmental Review Process",
+    "evidence": "Proposition 45 - Expedited Environmental Review Process Recommendation: NO",
+    "flags": [],
+    "position": "no"
+   }
+  ],
+  "url": "https://www.richmondprogressivealliance.org/voterguide2026"
+ },
+ "seiu-1021-521": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "e4e3bfd4cf77f048",
+  "items": [
+   {
+    "candidates": [
+     "Xavier Becerra"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-governor",
+    "contest_label": "California Governor",
+    "evidence": "Governor – Xavier Becerra",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Fiona Ma"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-lt-governor",
+    "contest_label": "California Lieutenant Governor",
+    "evidence": "Lt. Governor - Fiona Ma",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Rob Bonta"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-attorney-general",
+    "contest_label": "California Attorney General",
+    "evidence": "Attorney General - Rob Bonta",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Jane Kim"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-insurance-commissioner",
+    "contest_label": "California Insurance Commissioner",
+    "evidence": "Insurance Commissioner - Jane Kim",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Shirley N. Weber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-secretary-of-state",
+    "contest_label": "California Secretary of State",
+    "evidence": "Secretary of State - Dr. Shirley Weber",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Malia M. Cohen"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-controller",
+    "contest_label": "California Controller",
+    "evidence": "State Controller - Malia Cohen",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Richard Barrera"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-superintendent",
+    "contest_label": "California Superintendent of Public Instruction",
+    "evidence": "Superintendent of Public Instruction - Richard Barrera",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Eleni Kounalakis"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-treasurer",
+    "contest_label": "California Treasurer",
+    "evidence": "Treasurer - Eleni Kounalakis",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Sally J. Lieber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-boe-d2",
+    "contest_label": "State Board of Equalization (District 2)",
+    "evidence": "Sally Lieber - District 2",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-2",
+    "contest_label": "CA Proposition 2",
+    "evidence": "Proposition 2 - Increases State’s Rainy Day Fund - Vote YES",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-3",
+    "contest_label": "CA Proposition 3",
+    "evidence": "Provides Permanent Funding for Education by Extending Existing Tax on High Incomes – Vote YES",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-4",
+    "contest_label": "CA Proposition 4",
+    "evidence": "Repeals Prohibition Against Public Funding of Election Campaigns – Vote YES",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-5",
+    "contest_label": "CA Proposition 5",
+    "evidence": "Changes Recall Election Process for Statewide Officers – Vote YES",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "CA Proposition 39",
+    "evidence": "Prohibits Citizens from Voting Unless They Show Government-Issued ID - Vote NO",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-40",
+    "contest_label": "CA Proposition 40",
+    "evidence": "Imposes One-Time Tax on Certain Taxpayers – NEUTRAL",
+    "flags": [],
+    "position": "neutral"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-41",
+    "contest_label": "CA Proposition 41",
+    "evidence": "Prohibits New State Taxes That Exclude Revenues from State Spending Limit – NEUTRAL",
+    "flags": [],
+    "position": "neutral"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-42",
+    "contest_label": "CA Proposition 42",
+    "evidence": "Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes – NEUTRAL",
+    "flags": [],
+    "position": "neutral"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "CA Proposition 43",
+    "evidence": "Limits Voters’ Ability to Raise Revenues for Local Government Services – Vote NO",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-44",
+    "contest_label": "CA Proposition 44",
+    "evidence": "Requires Community Health Clinics Spend 90% of Revenue on Program Services – NEUTRAL",
+    "flags": [],
+    "position": "neutral"
+   },
+   {
+    "candidates": [
+     "Buffy Wicks"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-assembly-d14",
+    "contest_label": "California State Assembly (District 14)",
+    "evidence": "Buffy Wicks – District 14",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "low",
+    "contest_key": "reg-measure-rtm",
+    "contest_label": "Regional Measure RTM, Connect Bay Area Transit Initiative",
+    "evidence": "contra costa county state assembly ... Regional Transit Measure - Vote YES!",
+    "flags": [
+     "evidence_not_found_in_page"
+    ],
+    "position": "yes"
+   },
+   {
+    "candidates": [
+     "Cameron Sasai"
+    ],
+    "confidence": "high",
+    "contest_key": "ccccd-ward-1",
+    "contest_label": "Contra Costa Community College District Board (Ward 1)",
+    "evidence": "Cameron Sasai - Ward 1",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Marguerite Young"
+    ],
+    "confidence": "high",
+    "contest_key": "ebmud-ward-3",
+    "contest_label": "East Bay Municipal Utility District Board (Ward 3)",
+    "evidence": "East Bay Municipal Utility District (EBMUD) Marguerite Young - Ward 3",
+    "flags": [],
+    "position": "candidate"
+   }
+  ],
+  "url": "https://www.seiu1021.org/post/election-endorsements-nov-3-2026"
+ },
+ "sierra-club-sf-bay": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "736da05f61cd00b4",
+  "items": [
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-1",
+    "contest_label": "CA Proposition 1",
+    "evidence": "Prop 1:\nYES!",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-4",
+    "contest_label": "CA Proposition 4",
+    "evidence": "Prop 4:\nYES!",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-5",
+    "contest_label": "CA Proposition 5",
+    "evidence": "Prop 5:\nYES!",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "CA Proposition 39",
+    "evidence": "Prop 39:\nNO!",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "CA Proposition 43",
+    "evidence": "Prop 43:\nNO!",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "CA Proposition 45",
+    "evidence": "Prop 45:\nNO!",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [
+     "Rob Bonta"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-attorney-general",
+    "contest_label": "California Attorney General",
+    "evidence": "Attorney General:\nRob Bonta",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Malia M. Cohen"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-controller",
+    "contest_label": "California Controller",
+    "evidence": "Controller:\nMalia Cohen",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Ben Allen"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-insurance-commissioner",
+    "contest_label": "California Insurance Commissioner",
+    "evidence": "Insurance Commissioner:\nBen Allen",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Shirley N. Weber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-secretary-of-state",
+    "contest_label": "California Secretary of State",
+    "evidence": "Secretary of State:\nShirley Webber",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Richard Barrera"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-superintendent",
+    "contest_label": "California Superintendent of Public Instruction",
+    "evidence": "Superintendent of Public Instruction:\nRichard Barrera",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Eleni Kounalakis"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-treasurer",
+    "contest_label": "California Treasurer",
+    "evidence": "Treasurer:\nEleni Kounalakis",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "reg-measure-rtm",
+    "contest_label": "Regional Measure RTM, Connect Bay Area",
+    "evidence": "RTM: Regional Transit Measure (Connect Bay Area)\n: YES!",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [
+     "Marguerite Young"
+    ],
+    "confidence": "high",
+    "contest_key": "ebmud-ward-3",
+    "contest_label": "EBMUD Board Ward 3",
+    "evidence": "EBMUD Ward 3:\nMarguerite Young",
+    "flags": [],
+    "position": "candidate"
+   }
+  ],
+  "url": "https://www.sierraclub.org/sfbay/2026-endorsements"
+ },
+ "spur": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "9e05ee72631620cd",
+  "items": [
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "CA Proposition 45, Modifies Environmental Review for Certain Projects",
+    "evidence": "The SPUR Board of Directors could not reach a supermajority consensus position on this measure.",
+    "flags": [],
+    "position": "no_endorsement"
+   }
+  ],
+  "url": "https://www.spur.org/voter-guide/2026-11/ca-prop-45-environmental-review-ceqa"
+ },
+ "transform": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "bb2b4475d4806822",
+  "items": [
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-1",
+    "contest_label": "CA Proposition 1, Affordable Housing Bond",
+    "evidence": "Yes on Prop 1: Affordable Housing Bond",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "CA Proposition 39, Voter ID",
+    "evidence": "Vote NO on 39.",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-40",
+    "contest_label": "CA Proposition 40, One-time billionaires tax",
+    "evidence": "Yes on Prop 40: One-time billionaires tax",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-41",
+    "contest_label": "CA Proposition 41",
+    "evidence": "So be sure to vote no on Prop 41 and 42 as well.",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-42",
+    "contest_label": "CA Proposition 42",
+    "evidence": "So be sure to vote no on Prop 41 and 42 as well.",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "CA Proposition 43",
+    "evidence": "Vote No on 43.",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "CA Proposition 45, Modifies Environmental Review",
+    "evidence": "Vote no on Prop 45.",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "reg-measure-rtm",
+    "contest_label": "Regional Measure RTM, Regional Transit Measure",
+    "evidence": "Transform strongly supports Measure RTM",
+    "flags": [],
+    "position": "yes"
+   }
+  ],
+  "url": "https://transformca.org/transform-2026-ballot-proposition-guide/"
+ },
+ "west-county-dem-club": {
+  "extracted_at": "2026-10-20T03:18:42Z",
+  "fp": "1554f79836b1cfb4",
+  "items": [
+   {
+    "candidates": [
+     "Truc \"Christy\" Lam-Julian",
+     "Tina Brown",
+     "Gabriel Sandoval"
+    ],
+    "confidence": "high",
+    "contest_key": "pin-council",
+    "contest_label": "Pinole City Council (3 seats)",
+    "evidence": "Pinole City Council Christy Lam-Julian Pinole City Council Tina Brown",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Raquel Donoso"
+    ],
+    "confidence": "high",
+    "contest_key": "ccccd-ward-1",
+    "contest_label": "Contra Costa Community College District Board (Ward 1)",
+    "evidence": "Contra Costa College (CCC) Ward 1 Raquel Donoso",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Marguerite Young"
+    ],
+    "confidence": "high",
+    "contest_key": "ebmud-ward-3",
+    "contest_label": "East Bay Municipal Utility District Board (Ward 3)",
+    "evidence": "East Bay Municipal Utility District (EBMUD) Area 3 Marguerite Young",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "wccusd-measure-v",
+    "contest_label": "WCCUSD Measure V, Parcel Tax Renewal",
+    "evidence": "Endorsed Measures Measure V: Renewing Our Commitment to Local Schools",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-4",
+    "contest_label": "CA Proposition 4, Repeals Prohibition Against Public Funding of Election Campaigns",
+    "evidence": "Proposition 4, the Clean Money Proposition, works to get big money out of politics and restore trust in our elections.",
+    "flags": [],
+    "position": "yes"
+   }
+  ],
+  "url": "https://www.westcountydemocraticclub.com/endorsements"
+ },
+ "young-womens-freedom-center": {}
+}
