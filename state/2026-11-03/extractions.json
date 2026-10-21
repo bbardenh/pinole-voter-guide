@@ -825,8 +825,8 @@
   "url": "https://www.caworkingfamilies.org/voter-guide-general-election-2026.pdf"
  },
  "conservation-voters": {
-  "extracted_at": "2026-10-20T18:30:18Z",
-  "fp": "2b14bb9aeb00c284",
+  "extracted_at": "2026-10-21T18:42:14Z",
+  "fp": "a6ee9f3e37188152",
   "items": [
    {
     "candidates": [
@@ -1594,8 +1594,8 @@
   "url": "https://cocoyoungdems.org/endorsements"
  },
  "courage-california": {
-  "extracted_at": "2026-10-20T03:18:42Z",
-  "fp": "b7d5543118aa4a10",
+  "extracted_at": "2026-10-21T18:42:14Z",
+  "fp": "e1a26c21386e5c00",
   "items": [
    {
     "candidates": [
@@ -1648,7 +1648,7 @@
     "confidence": "high",
     "contest_key": "ca-attorney-general",
     "contest_label": "California Attorney General",
-    "evidence": "Courage California endorses Attorney General Rob Bonta for re-election to keep California on the right track for progress.",
+    "evidence": "Courage California endorses Attorney General Rob Bonta for re-election",
     "flags": [],
     "position": "candidate"
    },
@@ -1687,14 +1687,12 @@
    },
    {
     "candidates": [],
-    "confidence": "low",
+    "confidence": "high",
     "contest_key": "ca-insurance-commissioner",
     "contest_label": "California Insurance Commissioner",
     "evidence": "No Recommendation We recommend that you choose the Democratic candidate who best aligns to your values in this race.",
-    "flags": [
-     "candidate_position_without_names"
-    ],
-    "position": "candidate"
+    "flags": [],
+    "position": "no_endorsement"
    },
    {
     "candidates": [
@@ -1852,14 +1850,25 @@
     "evidence": "VOTE NO ON PROP 45",
     "flags": [],
     "position": "no"
+   },
+   {
+    "candidates": [
+     "Cameron Sasai"
+    ],
+    "confidence": "high",
+    "contest_key": "ccccd-ward-1",
+    "contest_label": "Contra Costa Community College District Trustee, Seat No. 1",
+    "evidence": "Elect Cameron Sasai for Trustee to put Contra Costa Community College on the right track for progress.",
+    "flags": [],
+    "position": "candidate"
    }
   ],
   "url": "https://www.progressivevotersguide.com/california/2026/general/county/contracosta"
  },
  "critical-resistance": {},
  "cta": {
-  "extracted_at": "2026-10-20T18:30:18Z",
-  "fp": "51266c4c49439f59",
+  "extracted_at": "2026-10-21T18:42:14Z",
+  "fp": "12c402783b941c88",
   "items": [
    {
     "candidates": [
@@ -3085,8 +3094,8 @@
   "url": "https://www.seiu1021.org/post/election-endorsements-nov-3-2026"
  },
  "sierra-club-sf-bay": {
-  "extracted_at": "2026-10-20T03:18:42Z",
-  "fp": "736da05f61cd00b4",
+  "extracted_at": "2026-10-21T18:42:14Z",
+  "fp": "43e4ffcf84560fb3",
   "items": [
    {
     "candidates": [],
@@ -3248,15 +3257,15 @@
   "url": "https://www.spur.org/voter-guide/2026-11/ca-prop-45-environmental-review-ceqa"
  },
  "transform": {
-  "extracted_at": "2026-10-20T03:18:42Z",
-  "fp": "bb2b4475d4806822",
+  "extracted_at": "2026-10-21T18:42:14Z",
+  "fp": "f06f5a75def38de4",
   "items": [
    {
     "candidates": [],
     "confidence": "high",
     "contest_key": "ca-prop-1",
     "contest_label": "CA Proposition 1, Affordable Housing Bond",
-    "evidence": "Yes on Prop 1: Affordable Housing Bond",
+    "evidence": "We need this and much more funding for affordable housing. Vote yes.",
     "flags": [],
     "position": "yes"
    },
@@ -3274,7 +3283,7 @@
     "confidence": "high",
     "contest_key": "ca-prop-40",
     "contest_label": "CA Proposition 40, One-time billionaires tax",
-    "evidence": "Yes on Prop 40: One-time billionaires tax",
+    "evidence": "Prop 40 asks them to pay their fair share, once. Vote yes.",
     "flags": [],
     "position": "yes"
    },
@@ -3309,7 +3318,7 @@
     "candidates": [],
     "confidence": "high",
     "contest_key": "ca-prop-45",
-    "contest_label": "CA Proposition 45, Modifies Environmental Review",
+    "contest_label": "CA Proposition 45, Environmental review",
     "evidence": "Vote no on Prop 45.",
     "flags": [],
     "position": "no"
@@ -3318,7 +3327,7 @@
     "candidates": [],
     "confidence": "high",
     "contest_key": "reg-measure-rtm",
-    "contest_label": "Regional Measure RTM, Regional Transit Measure",
+    "contest_label": "Regional Measure RTM",
     "evidence": "Transform strongly supports Measure RTM",
     "flags": [],
     "position": "yes"
@@ -3327,9 +3336,20 @@
   "url": "https://transformca.org/transform-2026-ballot-proposition-guide/"
  },
  "west-county-dem-club": {
-  "extracted_at": "2026-10-20T03:18:42Z",
-  "fp": "1554f79836b1cfb4",
+  "extracted_at": "2026-10-21T18:42:14Z",
+  "fp": "19af5ad91a3f25c4",
   "items": [
+   {
+    "candidates": [
+     "Raquel Donoso"
+    ],
+    "confidence": "high",
+    "contest_key": "ccccd-ward-1",
+    "contest_label": "Contra Costa Community College District Board (Ward 1)",
+    "evidence": "Contra Costa College (CCC) Ward 1\nRaquel Donoso",
+    "flags": [],
+    "position": "candidate"
+   },
    {
     "candidates": [
      "Truc \"Christy\" Lam-Julian",
@@ -3339,18 +3359,7 @@
     "confidence": "high",
     "contest_key": "pin-council",
     "contest_label": "Pinole City Council (3 seats)",
-    "evidence": "Pinole City Council Christy Lam-Julian Pinole City Council Tina Brown",
-    "flags": [],
-    "position": "candidate"
-   },
-   {
-    "candidates": [
-     "Raquel Donoso"
-    ],
-    "confidence": "high",
-    "contest_key": "ccccd-ward-1",
-    "contest_label": "Contra Costa Community College District Board (Ward 1)",
-    "evidence": "Contra Costa College (CCC) Ward 1 Raquel Donoso",
+    "evidence": "Pinole City Council\nChristy Lam-Julian\nPinole City Council\nTina Brown",
     "flags": [],
     "position": "candidate"
    },
@@ -3361,7 +3370,7 @@
     "confidence": "high",
     "contest_key": "ebmud-ward-3",
     "contest_label": "East Bay Municipal Utility District Board (Ward 3)",
-    "evidence": "East Bay Municipal Utility District (EBMUD) Area 3 Marguerite Young",
+    "evidence": "East Bay Municipal Utility District (EBMUD) Area 3\nMarguerite Young",
     "flags": [],
     "position": "candidate"
    },
@@ -3369,8 +3378,8 @@
     "candidates": [],
     "confidence": "high",
     "contest_key": "wccusd-measure-v",
-    "contest_label": "WCCUSD Measure V, Parcel Tax Renewal",
-    "evidence": "Endorsed Measures Measure V: Renewing Our Commitment to Local Schools",
+    "contest_label": "West Contra Costa Unified School District Measure V, Parcel Tax Renewal",
+    "evidence": "Endorsed Measures\nMeasure V: Renewing Our Commitment to Local Schools",
     "flags": [],
     "position": "yes"
    },
@@ -3382,6 +3391,39 @@
     "evidence": "Proposition 4, the Clean Money Proposition, works to get big money out of politics and restore trust in our elections.",
     "flags": [],
     "position": "yes"
+   },
+   {
+    "candidates": [
+     "Colin Coffey"
+    ],
+    "confidence": "high",
+    "contest_key": "unlisted",
+    "contest_label": "East Bay Regional Park District (EBRPD) Area 7",
+    "evidence": "East Bay Regional Park District (EBRPD) Area 7\nColin Coffey",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Caitlin Garibaldi"
+    ],
+    "confidence": "high",
+    "contest_key": "unlisted",
+    "contest_label": "West Contra Costa Unified School District (WCCUSD) Area 5",
+    "evidence": "West Contra Costa Unified School District (WCCUSD) Area 5\nCaitlin Garibaldi",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Harpreet Sandhu"
+    ],
+    "confidence": "medium",
+    "contest_key": "unlisted",
+    "contest_label": "AC Transit Area 1",
+    "evidence": "AC Transit Area 1\nHarpreet Sandhu",
+    "flags": [],
+    "position": "candidate"
    }
   ],
   "url": "https://www.westcountydemocraticclub.com/endorsements"
