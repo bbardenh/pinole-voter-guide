@@ -825,8 +825,8 @@
   "url": "https://www.caworkingfamilies.org/voter-guide-general-election-2026.pdf"
  },
  "conservation-voters": {
-  "extracted_at": "2026-10-21T18:42:14Z",
-  "fp": "a6ee9f3e37188152",
+  "extracted_at": "2026-10-22T18:35:43Z",
+  "fp": "b94224fb34e3c93b",
   "items": [
    {
     "candidates": [
@@ -906,26 +906,13 @@
     "position": "candidate"
    },
    {
-    "candidates": [
-     "John Garamendi"
-    ],
+    "candidates": [],
     "confidence": "high",
-    "contest_key": "us-house-d8",
-    "contest_label": "U.S. House of Representatives (District 8)",
-    "evidence": "CA 8\nJohn Garamendi",
+    "contest_key": "ca-prop-1",
+    "contest_label": "CA Proposition 1",
+    "evidence": "Vote YES\non Proposition 1",
     "flags": [],
-    "position": "candidate"
-   },
-   {
-    "candidates": [
-     "Sally J. Lieber"
-    ],
-    "confidence": "high",
-    "contest_key": "ca-boe-d2",
-    "contest_label": "State Board of Equalization (District 2)",
-    "evidence": "Board of Equalization District 2\nSally Lieber",
-    "flags": [],
-    "position": "candidate"
+    "position": "yes"
    },
    {
     "candidates": [],
@@ -948,9 +935,36 @@
    {
     "candidates": [],
     "confidence": "high",
+    "contest_key": "ca-prop-5",
+    "contest_label": "CA Proposition 5",
+    "evidence": "Vote YES\non Proposition 5",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
     "contest_key": "ca-prop-39",
     "contest_label": "CA Proposition 39",
     "evidence": "Vote NO\non Proposition 39",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-41",
+    "contest_label": "CA Proposition 41",
+    "evidence": "Vote NO\non Proposition 41",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-42",
+    "contest_label": "CA Proposition 42",
+    "evidence": "Vote NO\non Proposition 42",
     "flags": [],
     "position": "no"
    },
@@ -968,16 +982,38 @@
     "confidence": "high",
     "contest_key": "ca-prop-45",
     "contest_label": "CA Proposition 45",
-    "evidence": "Vote NO on Proposition 45",
+    "evidence": "Vote NO\non Proposition 45",
     "flags": [],
     "position": "no"
+   },
+   {
+    "candidates": [
+     "John Garamendi"
+    ],
+    "confidence": "high",
+    "contest_key": "us-house-d8",
+    "contest_label": "U.S. House of Representatives (District 8)",
+    "evidence": "CA 8\nJohn Garamendi",
+    "flags": [],
+    "position": "candidate"
+   },
+   {
+    "candidates": [
+     "Sally J. Lieber"
+    ],
+    "confidence": "high",
+    "contest_key": "ca-boe-d2",
+    "contest_label": "State Board of Equalization (District 2)",
+    "evidence": "Board of Equalization District 2\nSally Lieber",
+    "flags": [],
+    "position": "candidate"
    }
   ],
   "url": "https://envirovoters.org/2026-endorsements/"
  },
  "contra-costa-dems": {
-  "extracted_at": "2026-10-20T03:18:42Z",
-  "fp": "270d2b04ee3a3df8",
+  "extracted_at": "2026-10-22T18:35:43Z",
+  "fp": "1e25971526f96dde",
   "items": [
    {
     "candidates": [
@@ -996,7 +1032,7 @@
     ],
     "confidence": "high",
     "contest_key": "ca-governor",
-    "contest_label": "Governor",
+    "contest_label": "California Governor",
     "evidence": "Governor\nXavier Beccera",
     "flags": [],
     "position": "candidate"
@@ -1151,6 +1187,132 @@
     "evidence": "Support\nWest Contra Costa Unified School District Measure V",
     "flags": [],
     "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-1",
+    "contest_label": "Measure 1",
+    "evidence": "YES\nMeasure 1\nBuilds affordable homes for veterans, seniors and working families with no new taxes",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-2",
+    "contest_label": "Measure 2",
+    "evidence": "YES\nMeasure 2\nStrengthens California’s rainy day fund to protect schools and healthcare",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-3",
+    "contest_label": "Measure 3",
+    "evidence": "YES\nMeasure 3\nProtects schools and healthcare and stops a tax cut for the wealthiest top 2%",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-4",
+    "contest_label": "Measure 4",
+    "evidence": "YES\nMeasure 4\nEmpower voters by allowing public campaign fundiing",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-5",
+    "contest_label": "Measure 5",
+    "evidence": "YES\nMeasure 5\nProtects the right to recall",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-37",
+    "contest_label": "Measure 37",
+    "evidence": "YES\nMeasure 37\nLowers costs to make buying a home more affordable in CA",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-38",
+    "contest_label": "Measure 38",
+    "evidence": "YES\nMeasure 38\nFunds lifesaving immunology research",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-39",
+    "contest_label": "Measure 39",
+    "evidence": "NO\nMeasure 39\nRewrites voting rules to help Trump & makes it harder for you to vote.",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-40",
+    "contest_label": "Measure 40",
+    "evidence": "YES\nMeasure 40\nMakes billionaires pay their fair share to save healthcare",
+    "flags": [],
+    "position": "yes"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-41",
+    "contest_label": "Measure 41",
+    "evidence": "NO\nMeasure 41\nCreates red tape and seeks to pevent a tax on billionaires",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-42",
+    "contest_label": "Measure 42",
+    "evidence": "No\nMeasure 42\nLimits future revenue and seeks to prevent a tax on billionaires",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-43",
+    "contest_label": "Measure 43",
+    "evidence": "NO\nMeasure 43\nLimits voters ability to fund essential local services",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-44",
+    "contest_label": "Measure 44",
+    "evidence": "NO\nMeasure 44\nHarms millions of patients by shutting down hundreds of community health cliinics",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "Measure 45",
+    "evidence": "NO\nMeasure 45\nLets corporate polluters fast-track new data centers, gas pipelines & heavy industry",
+    "flags": [],
+    "position": "no"
    }
   ],
   "url": "https://contracostadems.com/endorsements/"
