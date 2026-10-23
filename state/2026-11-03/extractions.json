@@ -1756,8 +1756,8 @@
   "url": "https://cocoyoungdems.org/endorsements"
  },
  "courage-california": {
-  "extracted_at": "2026-10-21T18:42:14Z",
-  "fp": "e1a26c21386e5c00",
+  "extracted_at": "2026-10-23T18:25:21Z",
+  "fp": "0c90258929fded65",
   "items": [
    {
     "candidates": [
@@ -1810,7 +1810,7 @@
     "confidence": "high",
     "contest_key": "ca-attorney-general",
     "contest_label": "California Attorney General",
-    "evidence": "Courage California endorses Attorney General Rob Bonta for re-election",
+    "evidence": "Courage California endorses Attorney General Rob Bonta for re-election to keep California on the right track for progress.",
     "flags": [],
     "position": "candidate"
    },
@@ -1882,7 +1882,7 @@
     "candidates": [],
     "confidence": "high",
     "contest_key": "reg-measure-rtm",
-    "contest_label": "Regional Measure RTM (Public Transit Revenue Measure)",
+    "contest_label": "Regional Measure RTM, Public Transit Revenue Measure",
     "evidence": "VOTE YES ON THE PUBLIC TRANSIT REVENUE MEASURE",
     "flags": [],
     "position": "yes"
@@ -1937,7 +1937,7 @@
     "confidence": "high",
     "contest_key": "ca-prop-37",
     "contest_label": "CA Proposition 37",
-    "evidence": "No Position Proposition #37 VOTE YOUR VALUES ON PROP 37",
+    "evidence": "Proposition #37 No Position Proposition #37 VOTE YOUR VALUES ON PROP 37",
     "flags": [],
     "position": "no_position"
    },
@@ -2017,7 +2017,7 @@
     "candidates": [
      "Cameron Sasai"
     ],
-    "confidence": "high",
+    "confidence": "medium",
     "contest_key": "ccccd-ward-1",
     "contest_label": "Contra Costa Community College District Trustee, Seat No. 1",
     "evidence": "Elect Cameron Sasai for Trustee to put Contra Costa Community College on the right track for progress.",
@@ -3016,8 +3016,8 @@
   "url": "https://www.richmondprogressivealliance.org/voterguide2026"
  },
  "seiu-1021-521": {
-  "extracted_at": "2026-10-20T03:18:42Z",
-  "fp": "e4e3bfd4cf77f048",
+  "extracted_at": "2026-10-23T18:25:21Z",
+  "fp": "dd3ff7900f53d0ad",
   "items": [
    {
     "candidates": [
@@ -3117,6 +3117,15 @@
     "evidence": "Sally Lieber - District 2",
     "flags": [],
     "position": "candidate"
+   },
+   {
+    "candidates": [],
+    "confidence": "medium",
+    "contest_key": "ca-prop-1",
+    "contest_label": "CA Proposition 1",
+    "evidence": "Proposition 1 - Veteran and Housing Assistance Programs Bond Measure - Vote YES",
+    "flags": [],
+    "position": "yes"
    },
    {
     "candidates": [],
@@ -3221,13 +3230,11 @@
    },
    {
     "candidates": [],
-    "confidence": "low",
+    "confidence": "high",
     "contest_key": "reg-measure-rtm",
     "contest_label": "Regional Measure RTM, Connect Bay Area Transit Initiative",
-    "evidence": "contra costa county state assembly ... Regional Transit Measure - Vote YES!",
-    "flags": [
-     "evidence_not_found_in_page"
-    ],
+    "evidence": "Regional Transit Measure - Vote YES!",
+    "flags": [],
     "position": "yes"
    },
    {
@@ -3248,7 +3255,7 @@
     "confidence": "high",
     "contest_key": "ebmud-ward-3",
     "contest_label": "East Bay Municipal Utility District Board (Ward 3)",
-    "evidence": "East Bay Municipal Utility District (EBMUD) Marguerite Young - Ward 3",
+    "evidence": "Marguerite Young - Ward 3",
     "flags": [],
     "position": "candidate"
    }
