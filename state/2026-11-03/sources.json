@@ -2,9 +2,9 @@
  "350-bay-area-action": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://350bayareaaction.org/electoral/2026-endorsed-climate-candidates",
   "probes": {
    "https://350bayareaaction.org/electoral/2026-endorsed-climate-candidates": {
@@ -19,9 +19,9 @@
  "350-contra-costa-action": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://350contracostaaction.org/contra-costa-climate-voter-guide-2026/",
   "probes": {
    "https://350contracostaaction.org/contra-costa-climate-voter-guide-2026/": {
@@ -36,9 +36,9 @@
  "aapi-force-ef": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://www.aapiforce.org/2026general",
   "probes": {
    "https://www.aapiforce.org/2026general": {
@@ -53,9 +53,9 @@
  "apen-action": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://www.apenaction.org/endorsements/",
   "probes": {
    "https://www.apenaction.org/endorsements/": {
@@ -71,9 +71,9 @@
   "alerted": false,
   "consecutive_failures": 0,
   "last_change": "2026-10-20T18:30:18Z",
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://bayrisingaction.org/voterguide/",
   "probes": {
    "https://bayrisingaction.org/voterguide/": {
@@ -88,9 +88,9 @@
  "ca-democratic-party": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://cadem.org/endorsements/",
   "probes": {
    "https://cadem.org/endorsements/": {
@@ -104,9 +104,9 @@
  },
  "ca-labor-federation": {
   "alerted": false,
-  "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
-  "last_error": "",
+  "consecutive_failures": 1,
+  "last_checked": "2026-10-27T19:35:36Z",
+  "last_error": "HTTP 202",
   "last_ok": "2026-10-26T19:59:25Z",
   "page_url": "https://calaborfed.org/labor-2026-primary-election-endorsements/",
   "probes": {
@@ -117,14 +117,14 @@
     "result": "endorsement_page"
    }
   },
-  "status": "ok"
+  "status": "failing"
  },
  "ca-working-families": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://www.caworkingfamilies.org/voter-guide-general-election-2026.pdf",
   "probes": {
    "https://www.caworkingfamilies.org/voter-guide-general-election-2026.pdf": {
@@ -139,10 +139,10 @@
  "conservation-voters": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_change": "2026-10-22T18:35:43Z",
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_change": "2026-10-27T19:35:36Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://envirovoters.org/2026-endorsements/",
   "probes": {
    "https://envirovoters.org/2026-endorsements/": {
@@ -158,9 +158,9 @@
   "alerted": false,
   "consecutive_failures": 0,
   "last_change": "2026-10-22T18:35:43Z",
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://contracostadems.com/endorsements/",
   "probes": {
    "https://contracostadems.com/endorsements/": {
@@ -175,9 +175,9 @@
  "contra-costa-labor-council": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://www.cclabor.net/2026",
   "probes": {
    "https://www.cclabor.net/2026": {
@@ -192,9 +192,9 @@
  "contra-costa-young-dems": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://cocoyoungdems.org/endorsements",
   "probes": {
    "https://cocoyoungdems.org/endorsements": {
@@ -210,9 +210,9 @@
   "alerted": false,
   "consecutive_failures": 0,
   "last_change": "2026-10-23T18:25:21Z",
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://www.progressivevotersguide.com/california/2026/general/county/contracosta",
   "probes": {
    "https://www.progressivevotersguide.com/california/2026/general/county/contracosta": {
@@ -229,10 +229,10 @@
   "consecutive_failures": 0,
   "home_fp": "cd88bb9c284b2321",
   "hopped": {},
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
   "last_nav": "2026-10-22",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": null,
   "probes": {
    "https://criticalresistance.org/": {
@@ -254,11 +254,11 @@
   "alerted": false,
   "consecutive_failures": 0,
   "home_fp": "8dde3d1081d33b99",
-  "last_change": "2026-10-24T17:29:22Z",
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_change": "2026-10-27T19:35:36Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
   "last_nav": "2026-10-20",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://cta.org/barrera",
   "probes": {
    "https://cta.org/barrera": {
@@ -291,9 +291,9 @@
  "east-bay-dsa": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://dsavoterguide.com/eastbay/simple-guide.html",
   "probes": {
    "https://dsavoterguide.com/eastbay/simple-guide.html": {
@@ -308,9 +308,9 @@
  "east-bay-for-everyone": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/",
   "probes": {
    "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/": {
@@ -325,9 +325,9 @@
  "ebho": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://ebho.org/2026-campaign-endorsements/",
   "probes": {
    "https://ebho.org/2026-campaign-endorsements/": {
@@ -342,9 +342,9 @@
  "el-cerrito-dem-club": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://ecdclub.org/endorsements-vote-results/",
   "probes": {
    "https://ecdclub.org/endorsements-vote-results/": {
@@ -359,9 +359,9 @@
  "greenbelt-alliance": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://www.greenbelt.org/voter-guide-26/",
   "probes": {
    "https://www.greenbelt.org/voter-guide-26/": {
@@ -378,10 +378,10 @@
   "consecutive_failures": 0,
   "home_fp": "9300ef8f848d7a7e",
   "hopped": {},
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
   "last_nav": "2026-10-23",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": null,
   "probes": {
    "https://greenlining.org/": {
@@ -410,10 +410,10 @@
   "consecutive_failures": 0,
   "home_fp": "73a608016cb6de9a",
   "hopped": {},
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
   "last_nav": "2026-10-24",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": null,
   "probes": {
    "https://www.ilwu.org/contact/district-councils/": {
@@ -453,9 +453,9 @@
   "alerted": false,
   "consecutive_failures": 0,
   "last_change": "2026-10-26T19:59:25Z",
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://lwvc.org/ballot-recommendations-nov-3-2026/",
   "probes": {
    "https://lwvc.org/ballot-recommendations-nov-3-2026/": {
@@ -478,10 +478,10 @@
   "consecutive_failures": 0,
   "home_fp": "8f46a72f3c327b32",
   "hopped": {},
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
   "last_nav": "2026-10-20",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": null,
   "probes": {
    "https://www.norcalresist.org/": {
@@ -502,9 +502,9 @@
  "our-revolution": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://www.ourrevolutioneastbay.org/2026-endorsements.html",
   "probes": {
    "https://www.ourrevolutioneastbay.org/2026-endorsements.html": {
@@ -519,9 +519,9 @@
  "planned-parenthood": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://www.plannedparenthoodaction.org/planned-parenthood-advocates-mar-monte/voter-guide-2026/ca-endorsements",
   "probes": {
    "https://www.plannedparenthoodaction.org/planned-parenthood-advocates-mar-monte/voter-guide-2026/ca-endorsements": {
@@ -536,9 +536,9 @@
  "richmond-progressive-alliance": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://www.richmondprogressivealliance.org/voterguide2026",
   "probes": {
    "https://www.richmondprogressivealliance.org/voterguide2026": {
@@ -554,9 +554,9 @@
   "alerted": false,
   "consecutive_failures": 0,
   "last_change": "2026-10-23T18:25:21Z",
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://www.seiu1021.org/post/election-endorsements-nov-3-2026",
   "probes": {
    "https://www.seiu1021.org/post/election-endorsements-nov-3-2026": {
@@ -572,9 +572,9 @@
   "alerted": false,
   "consecutive_failures": 0,
   "last_change": "2026-10-21T18:42:14Z",
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://www.sierraclub.org/sfbay/2026-endorsements",
   "probes": {
    "https://www.sierraclub.org/sfbay/2026-endorsements": {
@@ -589,9 +589,9 @@
  "spur": {
   "alerted": false,
   "consecutive_failures": 0,
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://www.spur.org/voter-guide/2026-11/ca-prop-45-environmental-review-ceqa",
   "probes": {
    "https://www.spur.org/voter-guide/2026-11/ca-prop-45-environmental-review-ceqa": {
@@ -613,9 +613,9 @@
   "alerted": false,
   "consecutive_failures": 0,
   "last_change": "2026-10-21T18:42:14Z",
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://transformca.org/transform-2026-ballot-proposition-guide/",
   "probes": {
    "https://transformca.org/transform-2026-ballot-proposition-guide/": {
@@ -631,9 +631,9 @@
   "alerted": false,
   "consecutive_failures": 0,
   "last_change": "2026-10-21T18:42:14Z",
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": "https://www.westcountydemocraticclub.com/endorsements",
   "probes": {
    "https://www.westcountydemocraticclub.com/endorsements": {
@@ -654,10 +654,10 @@
    "https://youngwomenfree.org/es/la-voter-guide/": "ad65bddbe36f8514",
    "https://youngwomenfree.org/la-voter-guide/": "98f4881637119646"
   },
-  "last_checked": "2026-10-26T19:59:25Z",
+  "last_checked": "2026-10-27T19:35:36Z",
   "last_error": "",
   "last_nav": "2026-10-20",
-  "last_ok": "2026-10-26T19:59:25Z",
+  "last_ok": "2026-10-27T19:35:36Z",
   "page_url": null,
   "probes": {
    "https://youngwomenfree.org/": {
