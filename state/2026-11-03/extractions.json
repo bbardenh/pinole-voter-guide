@@ -1756,8 +1756,8 @@
   "url": "https://cocoyoungdems.org/endorsements"
  },
  "courage-california": {
-  "extracted_at": "2026-10-23T18:25:21Z",
-  "fp": "0c90258929fded65",
+  "extracted_at": "2026-10-28T19:37:54Z",
+  "fp": "24a8e7bb4056519a",
   "items": [
    {
     "candidates": [
@@ -1810,7 +1810,7 @@
     "confidence": "high",
     "contest_key": "ca-attorney-general",
     "contest_label": "California Attorney General",
-    "evidence": "Courage California endorses Attorney General Rob Bonta for re-election to keep California on the right track for progress.",
+    "evidence": "Courage California endorses Attorney General Rob Bonta for re-election",
     "flags": [],
     "position": "candidate"
    },
@@ -1852,7 +1852,7 @@
     "confidence": "high",
     "contest_key": "ca-insurance-commissioner",
     "contest_label": "California Insurance Commissioner",
-    "evidence": "No Recommendation We recommend that you choose the Democratic candidate who best aligns to your values in this race.",
+    "evidence": "We recommend that you choose the Democratic candidate who best aligns to your values in this race.",
     "flags": [],
     "position": "no_endorsement"
    },
@@ -1882,7 +1882,7 @@
     "candidates": [],
     "confidence": "high",
     "contest_key": "reg-measure-rtm",
-    "contest_label": "Regional Measure RTM, Public Transit Revenue Measure",
+    "contest_label": "Regional Measure RTM (Public Transit Revenue Measure)",
     "evidence": "VOTE YES ON THE PUBLIC TRANSIT REVENUE MEASURE",
     "flags": [],
     "position": "yes"
@@ -2017,7 +2017,7 @@
     "candidates": [
      "Cameron Sasai"
     ],
-    "confidence": "medium",
+    "confidence": "high",
     "contest_key": "ccccd-ward-1",
     "contest_label": "Contra Costa Community College District Trustee, Seat No. 1",
     "evidence": "Elect Cameron Sasai for Trustee to put Contra Costa Community College on the right track for progress.",
@@ -2549,8 +2549,8 @@
  "greenlining": {},
  "ilwu": {},
  "lwv-california": {
-  "extracted_at": "2026-10-26T19:59:25Z",
-  "fp": "18170a310189a558",
+  "extracted_at": "2026-10-28T19:37:54Z",
+  "fp": "edbe895d5e5571d5",
   "items": [
    {
     "candidates": [],
