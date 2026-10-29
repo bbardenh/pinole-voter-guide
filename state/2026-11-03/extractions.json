@@ -2513,23 +2513,14 @@
   "url": "https://ecdclub.org/endorsements-vote-results/"
  },
  "greenbelt-alliance": {
-  "extracted_at": "2026-10-20T03:18:42Z",
-  "fp": "cf45a3048624a842",
+  "extracted_at": "2026-10-29T19:41:26Z",
+  "fp": "ce9279cb418e1565",
   "items": [
    {
     "candidates": [],
     "confidence": "high",
-    "contest_key": "ca-prop-45",
-    "contest_label": "CA Proposition 45, Modifies Environmental Review for Certain Projects",
-    "evidence": "Vote No on Prop 45: Rolling Back CEQA Is A Proposition Californians Can’t Afford",
-    "flags": [],
-    "position": "no"
-   },
-   {
-    "candidates": [],
-    "confidence": "high",
     "contest_key": "ca-prop-43",
-    "contest_label": "CA Proposition 43, Limits Voters’ Ability to Raise Revenues for Local Government Services",
+    "contest_label": "CA Proposition 43",
     "evidence": "Vote No on Proposition 43 to Keep Citizen-Led Tax Measures Accessible",
     "flags": [],
     "position": "no"
