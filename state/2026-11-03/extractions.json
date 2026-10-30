@@ -2029,8 +2029,8 @@
  },
  "critical-resistance": {},
  "cta": {
-  "extracted_at": "2026-10-27T19:35:36Z",
-  "fp": "12c402783b941c88",
+  "extracted_at": "2026-10-30T19:27:00Z",
+  "fp": "51266c4c49439f59",
   "items": [
    {
     "candidates": [
@@ -2319,24 +2319,15 @@
   "url": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"
  },
  "ebho": {
-  "extracted_at": "2026-10-20T03:18:42Z",
-  "fp": "3b4e256528b92810",
+  "extracted_at": "2026-10-30T19:27:00Z",
+  "fp": "0576170a888d920b",
   "items": [
-   {
-    "candidates": [],
-    "confidence": "high",
-    "contest_key": "reg-measure-rtm",
-    "contest_label": "Regional Measure RTM, Connect Bay Area Transit Initiative",
-    "evidence": "Now, we need to gear up for phase two of the campaign so we can get the measure passed in November.",
-    "flags": [],
-    "position": "yes"
-   },
    {
     "candidates": [],
     "confidence": "high",
     "contest_key": "ca-prop-1",
     "contest_label": "CA Proposition 1, Veterans and Affordable Housing Bond Act of 2026",
-    "evidence": "Join us on Wednesday, September 30 to learn about why we support Proposition 1",
+    "evidence": "Add your name to the YES on Prop 1 coalition TODAY!",
     "flags": [],
     "position": "yes"
    },
@@ -2348,6 +2339,15 @@
     "evidence": "NO on Proposition 43",
     "flags": [],
     "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "medium",
+    "contest_key": "reg-measure-rtm",
+    "contest_label": "Regional Measure RTM, Connect Bay Area Transit",
+    "evidence": "Now, we need to gear up for phase two of the campaign so we can get the measure passed in November.",
+    "flags": [],
+    "position": "yes"
    }
   ],
   "url": "https://ebho.org/2026-campaign-endorsements/"
@@ -2513,8 +2513,8 @@
   "url": "https://ecdclub.org/endorsements-vote-results/"
  },
  "greenbelt-alliance": {
-  "extracted_at": "2026-10-29T19:41:26Z",
-  "fp": "ce9279cb418e1565",
+  "extracted_at": "2026-10-30T19:27:00Z",
+  "fp": "a529f204cd27b452",
   "items": [
    {
     "candidates": [],
@@ -2522,6 +2522,15 @@
     "contest_key": "ca-prop-43",
     "contest_label": "CA Proposition 43",
     "evidence": "Vote No on Proposition 43 to Keep Citizen-Led Tax Measures Accessible",
+    "flags": [],
+    "position": "no"
+   },
+   {
+    "candidates": [],
+    "confidence": "high",
+    "contest_key": "ca-prop-45",
+    "contest_label": "CA Proposition 45",
+    "evidence": "Vote No on Prop 45: Rolling Back CEQA Is A Proposition Californians Can’t Afford",
     "flags": [],
     "position": "no"
    },
