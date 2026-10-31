@@ -198,8 +198,8 @@
   "url": "https://www.apenaction.org/endorsements/"
  },
  "bay-rising-action": {
-  "extracted_at": "2026-10-20T18:30:18Z",
-  "fp": "d644815e0dd90619",
+  "extracted_at": "2026-10-31T18:36:38Z",
+  "fp": "025f44b5c859a510",
   "items": [
    {
     "candidates": [],
@@ -224,7 +224,7 @@
     "confidence": "high",
     "contest_key": "ca-prop-3",
     "contest_label": "CA Proposition 3",
-    "evidence": "Proposition 3 Yes Maintain School Funding through Renewing Income Tax on Top 2%",
+    "evidence": "Proposition 3 Yes Maintain School Funding through Renewing Income Tax on Top 2% (Prop 30/55 Extension)",
     "flags": [],
     "position": "yes"
    },
@@ -248,7 +248,7 @@
    },
    {
     "candidates": [],
-    "confidence": "medium",
+    "confidence": "high",
     "contest_key": "ca-prop-37",
     "contest_label": "CA Proposition 37",
     "evidence": "Proposition 37 Neutral/No Position Create Second Mortgage Program for Middle-Class Home-Buyers",
@@ -332,7 +332,7 @@
     "confidence": "high",
     "contest_key": "reg-measure-rtm",
     "contest_label": "Regional Measure RTM",
-    "evidence": "YES Measure RTM : Alameda, Contra Costa, San Francisco, San Mateo, and Santa Clara Counties: Reinvest in Regional Public Transit",
+    "evidence": "Yes on Measure RTM: Reinvest in Regional Public Transportation",
     "flags": [],
     "position": "yes"
    }
@@ -2549,8 +2549,8 @@
  "greenlining": {},
  "ilwu": {},
  "lwv-california": {
-  "extracted_at": "2026-10-28T19:37:54Z",
-  "fp": "edbe895d5e5571d5",
+  "extracted_at": "2026-10-31T18:36:38Z",
+  "fp": "173cd5afe9a0e2ae",
   "items": [
    {
     "candidates": [],
