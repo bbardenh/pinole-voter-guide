@@ -2029,8 +2029,8 @@
  },
  "critical-resistance": {},
  "cta": {
-  "extracted_at": "2026-10-30T19:27:00Z",
-  "fp": "51266c4c49439f59",
+  "extracted_at": "2026-11-02T22:48:02Z",
+  "fp": "12c402783b941c88",
   "items": [
    {
     "candidates": [
@@ -3016,8 +3016,8 @@
   "url": "https://www.richmondprogressivealliance.org/voterguide2026"
  },
  "seiu-1021-521": {
-  "extracted_at": "2026-10-23T18:25:21Z",
-  "fp": "dd3ff7900f53d0ad",
+  "extracted_at": "2026-11-02T22:48:02Z",
+  "fp": "b74225afa9006122",
   "items": [
    {
     "candidates": [
@@ -3255,7 +3255,7 @@
     "confidence": "high",
     "contest_key": "ebmud-ward-3",
     "contest_label": "East Bay Municipal Utility District Board (Ward 3)",
-    "evidence": "Marguerite Young - Ward 3",
+    "evidence": "East Bay Municipal Utility District (EBMUD) Marguerite Young - Ward 3",
     "flags": [],
     "position": "candidate"
    }
